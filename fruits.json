@@ -1,0 +1,2261 @@
+{
+  "rocket": {
+    "rarity": "common",
+    "type": "natural",
+    "money": 5000,
+    "robux": 50,
+    "awakening": 99999999,
+    "value": "stable",
+    "demand": "1",
+    "description": "Have you ever pondered the thrill of entering combat propelled by the raw power of rockets? In the realm of Blox Fruits, the Rocket Fruit provides precisely that – an affordable, explosive encounter. Let's soar into the details and uncover why this fruit could be your gateway to an exciting adventure. Priced at the same level as the former Kilo fruit, the Rocket Fruit stands as the most economical option in the game. Yet, its attacks surpass in potency, making it an optimal choice for grinding and, potentially, player versus player scenarios.",
+    "skills": [
+      {
+        "name": "Missile Fist",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user fires a small rocket from their hand, dealing damage and knockback on the contacted opponent."
+      },
+      {
+        "name": "Air Strike",
+        "keybind": "X",
+        "mastery": 20,
+        "description": "The user raise their arm and shoots five rockets in front of them, damaging opponents hit by it, and shooting them upwards."
+      },
+      {
+        "name": "Rocket Crash",
+        "keybind": "C",
+        "mastery": 50,
+        "description": "The user jumps to the air really fast and crashes to the ground where the cursor is pointing, dealing high damage to any contacted enemies."
+      },
+      {
+        "name": "Blast Off",
+        "keybind": "F",
+        "mastery": 75,
+        "description": "The user does a backflip towards the sky and flies with an explosive trail. Upon landing, the user gains bonus damage and movement speed."
+      }
+    ]
+  },
+  "spike": {
+    "rarity": "common",
+    "type": "natural",
+    "money": 180000,
+    "robux": 380,
+    "value": "stable",
+    "demand": "1",
+    "description": "In the diverse realm of Blox Fruits, the Spike Fruit emerges as a distinctive option, seamlessly blending peculiarity and power. As a Natural-type fruit, it introduces an unparalleled gameplay approach, endowing players who unlock it with a unique skill set.",
+    "skills": [
+      {
+        "name": "Spike Summon",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user summons multiple spikes at the location of their cursor. Holding the ability causes the spikes to increase in size."
+      },
+      {
+        "name": "Whirlwind",
+        "keybind": "X",
+        "mastery": 25,
+        "description": "The user rotates their arms in a spinning motion, inflicting damage. The longer the move is held, the greater the amount of damage it deals."
+      },
+      {
+        "name": "Spiky Ball",
+        "keybind": "C",
+        "mastery": 50,
+        "description": "The user transforms into a spiky ball, pulling enemies along as they move."
+      },
+      {
+        "name": "Spike Barrage",
+        "keybind": "V",
+        "mastery": 75,
+        "description": "The user conjures a row of spikes in the direction they are facing. The size of the spikes increases the longer the ability is held."
+      }
+    ]
+  },
+  "smoke": {
+    "rarity": "common",
+    "type": "elemental",
+    "money": 100000,
+    "robux": 250,
+    "value": "stable",
+    "demand": "1",
+    "description": "In the thrilling universe of Blox Fruits, your choice of fruit plays a crucial role in shaping your performance and overall gaming experience. The Smoke Fruit, also referred to as \"Smoke,\" has garnered players' interest for its noteworthy potential and budget-friendly nature. Despite being one of the more affordable options, its true value lies in its surprising performance and distinctive abilities – qualities that shouldn't be underestimated.",
+    "passive": [
+      {
+        "name": "Elemental Reflex",
+        "description": "The wielder is immune to all physical attacks (Fighting Style, Sword, and Gun) unless they are imbued with Aura or, in the case of an NPC, are higher level. This will only work on non-boss enemies with some exceptions."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Smoke Slam",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user turns their hand into smoke, then slams it onto the ground and dealing damage to the target."
+      },
+      {
+        "name": "Smoke Blast",
+        "keybind": "X",
+        "mastery": 20,
+        "description": "The user shoots forward a cloud of smoke which on impact leaves a smoke effect slashing the enemy multiple times and dealing damage."
+      },
+      {
+        "name": "Smoke Liberation",
+        "keybind": "C",
+        "mastery": 50,
+        "description": "The user blasts a Smoke Tornado with decent AOE and dealing damage."
+      },
+      {
+        "name": "Smoke Bomber",
+        "keybind": "F",
+        "mastery": 10,
+        "description": "The user turns into smoke, gaining the flight ability. If continually used above mobs and NPCs, this move can deal infinite damage, as its usage has no limit."
+      }
+    ]
+  },
+  "bomb": {
+    "rarity": "common",
+    "type": "natural",
+    "money": 80000,
+    "robux": 220,
+    "value": "stable",
+    "demand": "1",
+    "description": "When it comes to role-playing games in Roblox, Blox Fruits stands out among the crowd with its impressive range of unique powers and appealing characters. Among these peculiar and diverse abilities, one fruit, in particular, has managed to capture the attention of many players: the Bomb Blox Fruit.",
+    "skills": [
+      {
+        "name": "Targeted Bomb",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user charges a bomb where the cursor is held. Once the Z key is released, the bomb explodes, dealing damage to enemies and launching them into the air. Holding this move allows you to change the direction and deal more damage as you charge the move."
+      },
+      {
+        "name": "Bomb Grab",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "The user dashes forward, and if the user hits an enemy, it will cause an explosion and fling them forward of the user’s direction. This move is similar to Superhuman/Godhuman [C] moves."
+      },
+      {
+        "name": "Land Mines",
+        "keybind": "C",
+        "mastery": 75,
+        "description": "The user creates a minefield. The size depends on how long the move is held. If an enemy steps on a land mine, they will be damaged by an explosion. The landmines can only be seen by the user."
+      },
+      {
+        "name": "Self Destruct",
+        "keybind": "V",
+        "mastery": 125,
+        "description": "If the key is held, the user’s health begins to drain, and they begin charging up an explosion. Upon release of the key, there will be an explosion around the player, dealing immense damage. Holding longer will cause the move to deal more damage."
+      },
+      {
+        "name": "Explosive Jump",
+        "keybind": "F",
+        "mastery": 25,
+        "description": "The user jumps into the air, making a explosion while dealing low damage to any enemies caught in the explosion."
+      }
+    ]
+  },
+  "spring": {
+    "rarity": "common",
+    "type": "natural",
+    "money": 60000,
+    "robux": 180,
+    "value": "stable",
+    "demand": "1",
+    "description": "In the vast world of Blox Fruits, players dive into an adventure full of mysteries and challenges. Among the standout elements of the game is the Blox fruit known as Spring. In this article, we will explore all the relevant aspects of this unique and powerful fruit, from its acquisition to its special abilities and peculiarities. Get ready to discover the spring power in Blox Fruits!",
+    "skills": [
+      {
+        "name": "Knock",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user's arm becomes a spring, turning the attack into a low ranged punch in front of the user."
+      },
+      {
+        "name": "Spring Snipe",
+        "keybind": "X",
+        "mastery": 20,
+        "description": "The user leaps forward towards their cursor, dealing damage."
+      },
+      {
+        "name": "Spring Cannon",
+        "keybind": "C",
+        "mastery": 50,
+        "description": "The user turns their legs into springs, stretches, jumps into the air, and then falls back onto the ground. This move breaks Instinct."
+      },
+      {
+        "name": "Spring Emperor",
+        "keybind": "V",
+        "mastery": 125,
+        "description": "The user turns their legs into springs, jumping around rapidly dealing damage."
+      },
+      {
+        "name": "Spring Leap",
+        "keybind": "F",
+        "mastery": 75,
+        "description": "The user jumps and can bounce off walls, gaining speed and momentum while doing so."
+      }
+    ]
+  },
+  "chop": {
+    "rarity": "common",
+    "type": "natural",
+    "money": 30000,
+    "robux": 100,
+    "value": "stable",
+    "demand": "1",
+    "description": "In the vast and vibrant universe of Blox Fruits, the Chop Fruit stands out for its uniqueness and effectiveness. This natural Blox fruit offers players an advantage in the game, facilitating defense and providing unique offensive tactics.",
+    "passive": [
+      {
+        "name": "Body Separation",
+        "description": "Similarly to an Elemental, Chop users will have complete immunity to all swords, even those with Aura. This applies to Sword Users and NPCs if the NPC is lower level than the user as if it worked as an Elemental. Exception: Bosses and Raid Bosses."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Tackle",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The player separates their upper torso and launches it forward, dealing damage to enemies it hits."
+      },
+      {
+        "name": "Dance",
+        "keybind": "X",
+        "mastery": 20,
+        "description": "Separates the user's entire body except their torso and their head for an attack that deals chip damage and stuns all enemies in a circular radius around the user."
+      },
+      {
+        "name": "Party",
+        "keybind": "C",
+        "mastery": 50,
+        "description": "The user attacks their opponent with a barrage of floating fists. This move lasts longer if held. This move is similar to Rubber C move."
+      },
+      {
+        "name": "Helicopter",
+        "keybind": "F",
+        "mastery": 80,
+        "description": "The user separates their arms and legs and starts spinning them to achieve flight, similar to Spin flight. Note that it does not constantly decrease Energy."
+      }
+    ]
+  },
+  "spin": {
+    "rarity": "common",
+    "type": "natural",
+    "money": 7500,
+    "robux": 75,
+    "value": "stable",
+    "demand": "1",
+    "description": "In the diverse universe of Blox Fruits, the Spin fruit has earned a significant place among players. Despite being considered a common fruit of the Natural type, its usefulness in the game has made it a highly appreciated choice. In this article, we will delve into the fascinating world of Spin in Blox Fruits, its features, and how players can make the most of it.",
+    "skills": [
+      {
+        "name": "Razor Wind",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user spins their hand and makes many wind slashes that does damage to anyone in front of them. It can be held for more damage."
+      },
+      {
+        "name": "Tornado Assault",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "The user spins around at high speeds, slicing anyone in their path (moves towards your cursor)."
+      },
+      {
+        "name": "Air Slasher",
+        "keybind": "C",
+        "mastery": 90,
+        "description": "The user spins and unleashes a barrage of air slashes, before unleashing a stronger slash that slightly knocks their opponent back."
+      },
+      {
+        "name": "Helicopter Flight",
+        "keybind": "F",
+        "mastery": 25,
+        "description": "The user spins their hands really fast to start flying towards their cursor at a slow pace."
+      }
+    ]
+  },
+  "diamond": {
+    "rarity": "uncommon",
+    "type": "natural",
+    "money": 600000,
+    "robux": 1000,
+    "value": "underpaid",
+    "demand": "1",
+    "description": "In the amazing world of Blox Fruits, discovering and mastering new fruits is an essential part of the adventure. The Diamond fruit, for example, has captured the attention of many players due to its unique characteristics.",
+    "passive": [
+      {
+        "name": "Encrustation",
+        "description": "While Encrusted, the user gets a 25% defense buff that stacks with Aura. Diamond's moves cannot be used without the user being Encrusted."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Encrust",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user transforms into diamond."
+      },
+      {
+        "name": "Beaming Tackle",
+        "keybind": "X",
+        "mastery": 1,
+        "description": "The user tackles the nearby NPC or player. If the tackled enemy hits something, it creates a crater. The longer the user holds this move, the farther they will be launched."
+      },
+      {
+        "name": "Diamong Hail",
+        "keybind": "C",
+        "mastery": 80,
+        "description": "The user fires numerous shards from their hands. The amount of shards fired depends on how long the key was held for."
+      },
+      {
+        "name": "Solar Flare",
+        "keybind": "V",
+        "mastery": 110,
+        "description": "The user releases a large AOE blast of light, which blinds nearby players."
+      }
+    ]
+  },
+  "dark": {
+    "rarity": "uncommon",
+    "type": "elemental",
+    "money": 500000,
+    "robux": 950,
+    "awakening": 14500,
+    "value": "stable",
+    "demand": "6",
+    "description": "In the dynamic and ever-evolving universe of Blox Fruits, where power and skill are key to survival, standing out from the crowd is not always easy. Among all the variations of Blox Fruits, one has caught the attention of many players for its intricate gameplay mechanics and strategic potential: the Dark Fruit.",
+    "passive": [
+      {
+        "name": "Elemental Reflex",
+        "description": "The user is immune to all types physical attacks if the user is a certain amount of levels above the certain NPC or if the target does not have Aura enabled."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Dark Rocks",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user pushes their hand forward, grabbing rocks from the ground and leaving a crater, as the rocks with a black aura are fired towards the direction they aimed at."
+      },
+      {
+        "name": "Black Spiral",
+        "keybind": "X",
+        "mastery": 40,
+        "description": "The user creates a black hole on their cursor and in the user's hand, trapping anyone caught in it and dealing damage to them before they are launched away."
+      },
+      {
+        "name": "Black Hole",
+        "keybind": "C",
+        "mastery": 80,
+        "description": "The user opens up a large black hole around them, causing damage to anyone who gets trapped in it."
+      },
+      {
+        "name": "Dark Bomb",
+        "keybind": "V",
+        "mastery": 110,
+        "description": "The user manifests a large orb of darkness, launching it towards their cursor, dragging targets inside of it, dealing damage."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Dimensional Slash",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The user launches a small, vertical slash towards their cursor that applies a small blinding effect, teleporting the user near the target, dealing damage."
+      },
+      {
+        "name": "Abyssal Darkness",
+        "keybind": "X",
+        "mastery": 40,
+        "price": 3000,
+        "description": "The user creates a black hole that lashes out dark tentacles in front of them, stunning and pulling in targets when holding the move, dealing damage."
+      },
+      {
+        "name": "Endless Hole",
+        "keybind": "C",
+        "mastery": 80,
+        "price": 4000,
+        "description": "The user creates a large black hole that stuns targets, dealing rapid damage while getting bigger the longer it is held."
+      },
+      {
+        "name": "World of Darkness",
+        "keybind": "V",
+        "mastery": 110,
+        "price": 5000,
+        "description": "The user manifests a ravenous, dark sphere and launches it at their cursor. Afterwards, the sphere drags targets towards it before launching them away, dealing damage."
+      },
+      {
+        "name": "Ghastly Step",
+        "keybind": "F",
+        "mastery": 1,
+        "price": 2000,
+        "description": "The user teleports, leaving behind a purple afterimage of the user, allowing them to avoid incoming attacks."
+      }
+    ]
+  },
+  "sand": {
+    "rarity": "uncommon",
+    "type": "elemental",
+    "money": 420000,
+    "robux": 850,
+    "awakening": 14500,
+    "value": "stable",
+    "demand": "1",
+    "description": "In the dynamic game universe of Blox Fruits, the ‘Sand’ elemental Blox fruit stands out as a coveted treasure, due to its unique potential and versatile capabilities. With a cost of 420,000 in-game currency or 850 Robux at the Blox Fruit vendor, the Sand Blox fruit presents itself as an intriguing component of the game, widely accessible through the Blox Fruits Gacha mechanic, with a 15% chance of appearing for sale.",
+    "passive": [
+      {
+        "name": "Elemental Reflex",
+        "description": "The wielder is immune to all physical attacks (fighting style, sword, and gun) unless they are imbued with Aura or, in the case of an NPC, they are higher level."
+      },
+      {
+        "name": "Sand Dissolve",
+        "description": "Sand users will take twice as much damage in Water, unless they are a Shark V2, V3, or V4 user."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Desert Sword",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The player creates a burst of sand in front of themselves, launching anyone hit by it up in the air and dealing a decent amount of damage."
+      },
+      {
+        "name": "Desert Funeral",
+        "keybind": "X",
+        "mastery": 40,
+        "description": "The player conjures a circle of quicksand that pulls a target once stepped on, pulling them into the air and crushing them, dealing a decent amount of damage."
+      },
+      {
+        "name": "Sand Tornado",
+        "keybind": "C",
+        "mastery": 80,
+        "description": "The player creates a small sand tornado in front of them that sucks up players in its radius while stunning them and carrying them upwards in the air and then back down, while dealing decent damage."
+      },
+      {
+        "name": "Heavy Sand",
+        "keybind": "V",
+        "mastery": 120,
+        "description": "The player creates a ball of sand in their hand and shoots it at an opponent. This attack has high knockback and inflicts a good amount of damage."
+      },
+      {
+        "name": "Sand FLight",
+        "keybind": "F",
+        "mastery": 15,
+        "description": "The player turns their legs into sand, allowing them to fly at a slow pace."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Desert Blade",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The player creates a long-range high-speed burst of sand in a straight line in front of themselves, launching anyone hit by it up in the air and dealing good damage, while slightly stunning them in the process. This move can be used in the air, but will form on the ground."
+      },
+      {
+        "name": "Sand Coffin",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 40,
+        "description": "The player throws two piles of sand that can be aimed in the air. If it hits an opponent, it will levitate the enemy higher and higher into the air while trapping them inside. Then the sand will finally explode and deal good damage to the opponent. This move is good for combos."
+      },
+      {
+        "name": "Sandstorm",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 80,
+        "description": "The player creates a large cone-shaped tornado made of sand that slowly moves forward. Anyone caught within its radius will get stunned and pushed higher into the air while receiving continuous damage. This move can be used midair."
+      },
+      {
+        "name": "Deep Sand",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 120,
+        "description": "The player creates a lightning-infused vortex-like ball of sand from their hands, and throws it towards an opponent and explodes on contact, causing a large AoE shockwave of sand and purple-like electricity within a large radius and dealing heavy damage to anyone within its hitbox."
+      },
+      {
+        "name": "Tornado Flight",
+        "keybind": "F",
+        "price": 2000,
+        "mastery": 15,
+        "description": "The player’s legs turn into a little tornado, allowing them to fly at a pace faster than Sand Flight."
+      }
+    ]
+  },
+  "ice": {
+    "rarity": "uncommon",
+    "type": "elemental",
+    "money": 350000,
+    "robux": 750,
+    "awakening": 14500,
+    "value": "stable",
+    "demand": "7",
+    "description": "The Ice fruit in Blox Fruits is an incredibly powerful and strategic addition to any arsenal. As an elemental-type fruit, it offers players a variety of exceptional abilities that can be vital in Bounty Hunting and PvP situations. In this article, we will dive into the frozen realm of the Ice fruit, exploring its capabilities and usage strategies.",
+    "passive": [
+      {
+        "name": "Elemental Reflex",
+        "description": "The wielder is immune to all physical attacks and sword attacks as long as the attacker doesn't have Aura on."
+      },
+      {
+        "name": "Frost Walker",
+        "description": "The user can walk on Water by freezing it underneath them, similar to Magma V2. However, it will drain a significant amount of energy if moving fast. It takes 4 energy for every ice block created."
+      },
+      {
+        "name": "Ice Trident",
+        "description": "Similar to Light, if Ice is selected, the user is able to slash with a trident made of ice by clicking LMB. This can hit Chop users as it is a fruit attack. Also just like Light spear, adding stat points to the \"Sword\" In the stat will not Increase the damage since the trident counts as a fruit attack."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Ice Spears",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user fires a barrage of ice shards that damage the enemy. (Does not break Instinct if it didn't touch the ground)"
+      },
+      {
+        "name": "Ice Surge",
+        "keybind": "X",
+        "mastery": 25,
+        "description": "The user releases a small surge of ice which deals damage and knocks back anyone it hits. Needs a minimum of aiming skills. (Breaks Instinct)"
+      },
+      {
+        "name": "Ice Bird",
+        "keybind": "C",
+        "mastery": 50,
+        "description": "The user creates a bird made of ice and throws it at where the mouse is, freezing players who are hit. Explodes at contact. Freeze duration scales based on how long the projectile travels before impact. Needs good aiming skills. (Breaks Instinct)"
+      },
+      {
+        "name": "Glacial Epoch",
+        "keybind": "V",
+        "mastery": 100,
+        "description": "Turns the ground into ice, freezes and damages whoever steps in it. Often used by sword and gun users as their primary combo-starter (Breaks Instinct)."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Cold Storm",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The user fires a hurricane-like object, which travels at a slow speed towards the cursor. Upon contact with the enemy, it will slowly deal decent damage and the enemy will be stunned for the duration of the move (a few seconds). This move can sometimes break Instinct."
+      },
+      {
+        "name": "Glacial Surge",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 25,
+        "description": "The user unleashes a huge surge of ice, which causes knockback and deals damage. (Breaks Instinct)"
+      },
+      {
+        "name": "Frozen Dragon",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 50,
+        "description": "The user launches a large, high-speed ice dragon into the air, which then crashes down at the cursor causing damage and freezing opponents."
+      },
+      {
+        "name": "Absolute Zero",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 100,
+        "description": "The user unleashes a medium-large wave of ice around the user, freezing everyone in its radius and causing damage. (Breaks Instinct)"
+      },
+      {
+        "name": "Ice Skating",
+        "keybind": "F",
+        "price": 2000,
+        "mastery": 0,
+        "description": "Along with the ability to passively walk on Water, the user gains the ability to skate at high speeds. The user cannot regenerate health and energy while using this ability. When you unlock this ability, the ice patterns under your feet when you walk on water will change into a brighter blue color, and it will give off more light, making it brighter than the old version."
+      }
+    ]
+  },
+  "falcon": {
+    "rarity": "uncommon",
+    "type": "beast",
+    "money": 300000,
+    "robux": 650,
+    "value": "underpaid",
+    "demand": "1",
+    "description": "The vast universe of Blox Fruits, an exciting creation by Blockzone, is filled with surprises and endless excitement for players. Among the multitude of elements available in this game, a particular treasure to highlight is the Blox fruit known as Falcon. As a Beast-type fruit, Falcon is a fascinating choice for those seeking new powers and abilities.",
+    "passive": [
+      {
+        "name": "Jump Boost",
+        "description": "While transformed, the user gains a jump boost, making them jumps slightly higher."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Plumage",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user transforms, growing a pair of wings. This move must be active to use other moves. Increases the user's jump and Air Jump."
+      },
+      {
+        "name": "Wind Burst",
+        "keybind": "X",
+        "mastery": 1,
+        "description": "The user launches a blast of wind by flapping their wings. This attack goes in the direction of the cursor."
+      },
+      {
+        "name": "Bone Crusher",
+        "keybind": "C",
+        "mastery": 80,
+        "description": "The user charges at the enemy, if the attack lands the user will grip the opponent by their feet and collide them with the ground, causing bits of debris to come out of the ground, along with some cracks appearing on it. This move is single target and stuns a bit after crashing on the ground."
+      },
+      {
+        "name": "Soaring Talon",
+        "keybind": "V",
+        "mastery": 120,
+        "description": "The user charges at the enemy, clawing at them several times and dealing damage. After the said move, the enemy will be slightly stunned by this move."
+      },
+      {
+        "name": "Flight",
+        "keybind": "F",
+        "mastery": 20,
+        "description": "The user can fly around while holding F. The speed is decent, this move can only be done if Plumage has been activated. This gives players an advantage to stay in the air and attack. Much like Phoenix."
+      }
+    ]
+  },
+  "flame": {
+    "rarity": "uncommon",
+    "type": "elemental",
+    "money": 250000,
+    "robux": 550,
+    "awakening": 14500,
+    "value": "stable",
+    "demand": "1",
+    "description": "In the exciting world of Blox Fruits, where magic, combat, and strategy merge, there is a Blox fruit of elemental type that stands out: the Flame fruit. Introduced in Update 1, Flame has been gaining popularity among players due to its versatility and effectiveness for both beginners and experienced players.",
+    "passive": [
+      {
+        "name": "Elemental Reflex",
+        "description": "The user is immune to all physical attacks (Fighting Styles, Sword, and Guns) unless they are imbued with Aura or, in the case of an NPC, they are higher level."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Fire Bullets",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user shoots several flaming 'bullets' that can hit multiple targets at the direction of the user’s cursor. This has an 8 second cooldown."
+      },
+      {
+        "name": "Burning Blast",
+        "keybind": "X",
+        "mastery": 25,
+        "description": "The user fires a fist-shaped flaming projectile from their hand in the direction of the cursor. This has a 20 seconds cooldown."
+      },
+      {
+        "name": "Fire Column",
+        "keybind": "C",
+        "mastery": 50,
+        "description": "The user slams the ground, releasing a surge of fire around the user and upwards, pushing upwards anyone caught in the pillar, dealing damage in an AoE fire column with a 15 second cooldown"
+      },
+      {
+        "name": "Flame Destroyer",
+        "keybind": "V",
+        "mastery": 100,
+        "description": "The user creates a large orb of fire and throws it, which explodes when it hits a surface or reaches its maximum range, dealing a high amount of damage to anyone within its radius. This can be charged to deal slightly more damage."
+      },
+      {
+        "name": "Fire Flight",
+        "keybind": "F",
+        "mastery": 10,
+        "description": "The user's legs turn into flames and render them able to fly."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Blue Fire Bullets",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The user shoots forward 5-6 explosive blue sparks of heat, which spread out than will navigate its way to the cursor. Upon hitting an enemy, the enemy will get stunned for a few moments. Deals good damage if every bullet hits the target."
+      },
+      {
+        "name": "Prominence Burst",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 40,
+        "description": "The user fires an extremely fast beam of fire from their hands in the direction of their cursor which explodes on contact with a surface, dealing damage and knocking back nearby enemies. It also leaves behind a fire effect that tick-damages enemies who enter its area, lasting for 5 seconds. Breaks Instinct."
+      },
+      {
+        "name": "Flaming Vortex",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 80,
+        "description": "The user launches themselves and nearby enemies into the air using a blast of flames, dealing damage and leaving behind a fire effect that tick-damages enemies who enters its area (if the move was done on the ground), lasting for 5 seconds. Breaks Instinct."
+      },
+      {
+        "name": "Hell's Core",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 100,
+        "description": "The player creates a massive orb of fire and throws it, which explodes when it hits a surface or reaches its maximum range, dealing a huge amount of damage to anyone in its radius, and leaves behind a fire effect that tick-damages enemies who enters its area, lasting for 5 seconds. Can be held to deal slightly more damage and bigger AOE. Breaks Instinct."
+      },
+      {
+        "name": "Rocket Flight",
+        "keybind": "F",
+        "price": 2000,
+        "mastery": 10,
+        "description": "The user dashes forward, then flies at medium speed with fire burning along the user's back. The user leaves a blue loop of fire afterwards."
+      }
+    ]
+  },
+  "magma": {
+    "rarity": "rare",
+    "type": "elemental",
+    "money": 960000,
+    "robux": 1300,
+    "value": "overpaid",
+    "demand": "7",
+    "description": "With an increasing number of players venturing into the world of Blox Fruits, it is essential to understand the best tactics, fruits, and features to enhance your gaming experience. One such fruit, of the Elemental type, that has caught the attention of many players is the Magma Fruit. With its ability to drastically change the game mechanics, the Magma Fruit has become invaluable for those seeking to master Blox Fruits. It gramts the weilder the ability to walk in the water and powerful moves that can help you with sea events.",
+    "passive": [
+      {
+        "name": "Elemental Reflex",
+        "description": "The wielder is immune to all physical attacks (Fighting Style, Sword, and Gun) unless they are imbued with Aura or, in the case of an NPC, they are a higher elemental level."
+      },
+      {
+        "name": "Lava Immunity",
+        "description": "The user is immune to the Lava puddles found on the Hot and Cold and Magma Village islands, as well as in Flame and Magma raids."
+      },
+      {
+        "name": "Magmatic Feet",
+        "description": "When you awaken at least one of the Awakened Magma skills, it grants the user the ability to walk on water by passively creating small magma puddles to walk on similar to the Ice Fruit. As of Update 20, Magma Feet takes up energy. (standing still will also take up energy)."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Magma Clap",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The player will create 2 hands, and after a very short delay will clap into each other dealing damage to any enemy within the vicinity. The hitbox of the hands are larger than it seems considering the small hand size."
+      },
+      {
+        "name": "Magma Eruption",
+        "keybind": "X",
+        "mastery": 45,
+        "description": "The user will create an eruption below them. If an enemy is standing right on top of it, they will launch to the air dealing damage. A lava pool will also stay for a few seconds that deal damage over time to enemies standing on it. There can be 1-3 lava pools that can spawn at a time."
+      },
+      {
+        "name": "Magma Fist",
+        "keybind": "C",
+        "mastery": 95,
+        "description": "Create a large fireball that will launch to where your pointer is pointing at. If it hits the ground, it will explode and will also leave a bigger lava pool that will stay for a few seconds. Magma Fist is very identical to its past skill, Magma Wolf."
+      },
+      {
+        "name": "Magma Meteors",
+        "keybind": "V",
+        "mastery": 140,
+        "description": "Creates 3 \"Meteors\" that will launch to where your pointer is pointing at,hitting the ground will cause it to explode into smaller pieces that look like lava pools but don't do damage. Out of all the attack the Magma set has, this is likely to be the most devastating skill out of all of them."
+      },
+      {
+        "name": "Magma Floor",
+        "keybind": "F",
+        "mastery": 10,
+        "description": "Creates 3 \"Meteors\" that will launch to where your pointer is pointing at,hitting the ground will cause it to explode into smaller pieces that look like lava pools but don't do damage. Out of all the attack the Magma set has, this is likely to be the most devastating skill out of all of them."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Magma Shower",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The player unleashes a massive amount of melting hot magma rocks dealing heavy damage when everything hits and leaving behind multiple magma puddles. This move can be shot to the sky, and the projectiles will fall to the ground afterward. Cooldown: 6.5s"
+      },
+      {
+        "name": "Volcanic Assault",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 45,
+        "description": "The player dashes, leaking magma onto the ground and if they hit an opponent, they will fire multiple continuous blasts of searing hot magma from their palm, and then finish it off with a stronger blast that deals knockback and great damage. Cooldown: 10s"
+      },
+      {
+        "name": "Great Magma Hound",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 95,
+        "description": "The player launches a large hound-like magma projectile that deals large damage and leaves magma puddles under it. This move can carry enemies or NPCs for a certain distance and stuns for a brief amount of time (works for players only). Cooldown: 13s"
+      },
+      {
+        "name": "Volcanic Storm",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 120,
+        "description": "The player amasses a great amount of scorching-hot magma on their right hand, before throwing it all out towards the cursor as all of the magma hits a surface and causes a great explosion of magma puddles while dealing extreme damage to anyone they hit. Anyone near the explosion will have their screen's colour change to a shade of dark orange. This move is the most destructive and powerful move in the entire game. Cooldown: 23s."
+      },
+      {
+        "name": "Beast Ride",
+        "keybind": "F",
+        "price": 2000,
+        "mastery": 10,
+        "description": "The player creates a beast crafted from magma below them and sits on top of it and takes off, similar to Gravity's Boulder Flight, leaving trails of burning hot magma behind. When you release F, the beast turns into puddles of lava that deal good damage on contact. You can only fly for 30 seconds though (because it deals damage, like Venom). Cooldown: 5s."
+      }
+    ]
+  },
+  "barrier": {
+    "rarity": "rare",
+    "type": "natural",
+    "money": 800000,
+    "robux": 1250,
+    "value": "underpaid",
+    "demand": "1",
+    "description": "The exciting and adventurous dynamics of the popular online game Blox Fruits attract players of all ages and skills. One of the most intriguing and tactical aspects of the game is the use of various “Blox fruits,” each with unique abilities that add an exciting twist to the gameplay. Among these fruits, the Barrier is a powerful and versatile choice that has the potential to radically change the course of your game.",
+    "skills": [
+      {
+        "name": "Barrier Wall",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The player fires a medium-sized rectangular barrier that damages opponents and block certain incoming attacks."
+      },
+      {
+        "name": "Surprise Attack",
+        "keybind": "X",
+        "mastery": 45,
+        "description": "The player teleports to their cursor and slams down on the ground, dealing high AoE damage. Very glitchy if used in a building, since you teleport out of it."
+      },
+      {
+        "name": "Barrier Prison",
+        "keybind": "C",
+        "mastery": 90,
+        "description": "The player fires a sphere that can be controlled with their mouse, which traps opponents while damaging them. You are uninterruptible and invincible while using this move. If you \"throw\" the opponent (by aiming the cursor at a wall) it has a chance to slam into the wall and do extra AoE (Area of Effect) damage. Not guaranteed. Note: This move can be used to drag/throw opponents into the water."
+      },
+      {
+        "name": "Barrier Towers",
+        "keybind": "V",
+        "mastery": 130,
+        "description": "The player summons 5 large barrier towers in front of them that slams into the ground that deal high damage. Also buries opponents, and can trap them into the ground."
+      },
+      {
+        "name": "Stairs",
+        "keybind": "F",
+        "mastery": 10,
+        "description": "You summon a constantly growing staircase in the direction your character is facing that will continue to go up until you run out of stamina or release the key. Takes around 1 energy per step created. It is decent in aerial mobility since it allows you to reset Air Jump without touching the ground, helping you reach higher heights. This move could be used to do the Rabbit V3 Glitch, which has been patched."
+      }
+    ]
+  },
+  "ghost": {
+    "rarity": "rare",
+    "type": "natural",
+    "money": 30000,
+    "robux": 100,
+    "value": "stable",
+    "demand": "2",
+    "description": "In the fascinating universe of Blox Fruits, an element that has managed to stand out in the digital landscape is the exclusive Ghost Blox Fruit. Introduced in version 16, this natural-type fruit has revolutionized the way players approach their gameplay strategy, offering them the unique ability to revive.",
+    "passive": [
+      {
+        "name": "Resurrection",
+        "description": "Once you die you will resurrect with 50% HP. When you are resurrected, You will receive a message saying \"Beware, you are on your last life!\" Your physical in-game avatar will change into a see-through greenish ghost. You will become translucent with a green glow (similar to when you use Ghost V or Ghost F)."
+      },
+      {
+        "name": "Vengeful Soul",
+        "description": "When hitting an enemy, the enemy's screen will become greenish (similar to V4 Rabbit when the Race Awakening bar is full). At the same time, a green skull will appear in the middle of the screen if too many moves are hit."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Shivering Possession",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user dashes and any enemies dashed into are covered in ectoplasm with ice and explode. This move is similar to Shadow's Z."
+      },
+      {
+        "name": "Spectral Release",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "The user creates a whirlwind of ghosts which revolve around them, trapping the enemy and pushing them back slightly."
+      },
+      {
+        "name": "Cries of the Underworld",
+        "keybind": "C",
+        "mastery": 100,
+        "description": "The user starts spitting ghosts that pushes the enemy back, this can also be held. The first hit deals the most damage."
+      },
+      {
+        "name": "Ghost Busters",
+        "keybind": "V",
+        "mastery": 150,
+        "description": "The user creates 2 ghost versions of themselves who imitate their attacks, including front dash, jumping and using their current fighting style and sword. These ghosts also have the ability to use the Z, X, C and F moves of this Fruit. The moves will aim at the point the user aims at. After a while (slightly shorter than the V move's cooldown - 20 seconds) they will disappear."
+      },
+      {
+        "name": "Wandering Soul",
+        "keybind": "F",
+        "mastery": 75,
+        "description": "The user turns into a ghost, similar to the V move, and flies, leaving a blue trail surrounded by ghosts."
+      }
+    ]
+  },
+  "rubber": {
+    "rarity": "rare",
+    "type": "natural",
+    "money": 750000,
+    "robux": 1200,
+    "value": "stable",
+    "demand": "5",
+    "description": "The world of Blox Fruits offers a multitude of exciting fruits that transform the body and provide exceptional abilities. One notable fruit from this catalog is Rubber Fruit, a natural-type Blox fruit. This article will examine the features, abilities, and tricks of this fruit in detail, providing a comprehensive insight for fans and new players.",
+    "passive": [
+      {
+        "name": "Rubber Man",
+        "description": "Immunity to Rumble, Electric, and all Guns, even with Aura but not enemy NPCs (like Mythological Pirate)."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Canon",
+        "keybind": "Z",
+        "mastery": 25,
+        "description": "The user pulls their arms backward, resulting in their arms to be stretched. Upon releasing the respective button, the user springs their arms forward, dealing knockback as well as damage."
+      },
+      {
+        "name": "Smash",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "The user stretches their right leg upwards, and upon releasing the respective button the user launches their leg down, dealing small knockback as well as damage."
+      },
+      {
+        "name": "Rush",
+        "keybind": "C",
+        "mastery": 125,
+        "description": "The user does a barrage of punches towards the direction they are facing, dealing continuous damage. Holding down the respective button for this move causes it to last longer."
+      },
+      {
+        "name": "Transformation",
+        "keybind": "V",
+        "mastery": 225,
+        "description": "Upon activation, the user initiates a stance, gaining a pink-like texture on their skin and begins to emit steam. While having this move active, all animations change to be faster and all moves gain a damage increase, but the user's energy regeneration is reduced by 20%. This ability will last as long as the user does not die or run out of energy."
+      },
+      {
+        "name": "Slingshot",
+        "keybind": "F",
+        "mastery": 80,
+        "description": "The user stretches both their arms in the direction of the cursor. If they hit an object, the user will be launched at a fast speed towards the object. This can be used to launch the user beyond or above the object. If they hit a player/NPC, the user will launch towards the player/NPC, dealing damage and slight knockback. If held, the user can charge it up to four stages, which is seen by rings appearing around the user. Each stage allows the user's arms to go a bit farther upon release."
+      }
+    ]
+  },
+  "light": {
+    "rarity": "rare",
+    "type": "elemental",
+    "money": 650000,
+    "robux": 1100,
+    "awakening": 14500,
+    "value": "stable",
+    "demand": "6",
+    "description": "The universe of Blox Fruits has become exponentially popular among Roblox players, providing a blend of action, adventure, and role-playing in a highly interactive platform. Within its rich ecosystem, the Light Fruit has achieved legendary status for its versatility and power. If you’re looking for a comprehensive guide on how to make the most of this fruit, you’ve come to the right place. This fruit is highly recommended to use in the First Sea.",
+    "passive": [
+      {
+        "name": "Elemental Reflex",
+        "description": "The wielder is immune to all physical attacks (Fighting Style, Sword, and Gun) unless they are imbued with Aura or, in the case of an NPC, they are higher."
+      },
+      {
+        "name": "Light Spear",
+        "description": "The wielder gains a Spear made of light to use as their M1 attack like the Ice Trident. This can hit Chop users as it is a fruit attack. Note that you do not need to put stats in sword to make the spear more powerful, increasing the fruit stat makes the fruit do more damage, including the M1 light spear."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Light Ray",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "Shoots a high-speed beam made of light with a decent hitbox in the direction of the cursor."
+      },
+      {
+        "name": "Barrage of Light",
+        "keybind": "X",
+        "mastery": 40,
+        "description": "The player teleports upwards, and then shoots about 15 small light beams that explode upon impact in an area around the user's cursor. Holding aforementioned hotkey will send more projectiles. This move breaks Instinct."
+      },
+      {
+        "name": "Reflection Kick",
+        "keybind": "C",
+        "mastery": 80,
+        "description": "Using this ability, the player creates a series of mirrors with beams of light between them appear which teleport the user to a point above where their cursor was, after which the user shoots a beam of light downwards, creating a large explosion beneath them (AoE)."
+      },
+      {
+        "name": "Sky Beam Barrage",
+        "keybind": "V",
+        "mastery": 110,
+        "description": "The player kneels down and sends a large amount of light from their palm, which then causes multiple beams to be summoned from the sky that create explosions upon impact, stuns in a radius shown by a circle that appears upon activating the move."
+      },
+      {
+        "name": "Light Flight",
+        "keybind": "F",
+        "mastery": 10,
+        "description": "The player turns into a light symbol and flies extremely fast. You cannot change the direction of the flight manually, but you can still change direction if you hit anything. Wall, ground, enemy, etc. And its speed is dependent on the percentage of the player's remaining health. (70% health left-> 70% speed)"
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Divine Arrow",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The player summons a bow and an arrow made out of high-pressure light. Good stun (only on pierce hit, not AoE), and an actual hitbox. Can be held for 3 arrows doing AoE damage. The longer it's held, the more damage it does. If held to the max, it will do 188% damage."
+      },
+      {
+        "name": "Hand of the Emperor",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 40,
+        "description": "The player shoots a flashing light on their right hand which they can move around. If aimed correctly, it stuns the target as long as the skill lasts and does high damage. This move can be held (multi-hit)."
+      },
+      {
+        "name": "Lightspeed Destroyer",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 80,
+        "description": "The player dashes at the desired target. Consecutively kick the target around then smashing them back onto the ground. This move is great for combos and can be used as a combo finisher."
+      },
+      {
+        "name": "Wrath of God",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 110,
+        "description": "The player summons a huge barrage of light beams falling from the air that create explosions upon impact, in a radius shown by a circle that appears upon activating the move. This move can be Instinct tricked, but the move will drain their Instinct dodges in less than 2-3 seconds. Also, this move stuns while draining Instinct, so you can line up another move, for example, the C move, then following it up with the X move. (AoE, Instinct Break)."
+      },
+      {
+        "name": "Shining Flight",
+        "keybind": "F",
+        "price": 2000,
+        "mastery": 10,
+        "description": "The player turns into light and flies extremely fast, slightly faster than V1. Unlike V1, this move can change direction mid-flight, but the maneuverability and speed is poor due to the snappy nature."
+      }
+    ]
+  },
+  "blizzard": {
+    "rarity": "legendary",
+    "type": "elemental",
+    "money": 2400000,
+    "robux": 2250,
+    "value": "stable",
+    "demand": "6",
+    "description": "Blizzard Fruit in Blox Fruits is not just an in-game item; it’s a game within itself. Known for its legendary status and unmatched elemental abilities, this fruit can take your gaming experience to astronomical levels, only if you know how to use it correctly. In this article, we will teach you everything you need to know about the Blizzard Fruit and how to master the game with its powers.",
+    "passive": [
+      {
+        "name": "Elemental Reflex",
+        "description": "The user is immune to all physical attacks (Fighting Style, Sword, Gun) from players without Aura and lower level Non-Boss NPCs without aura."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Snowflake Shuriken",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user throws snow shuriken's that explodes on impact or has reached its maximum distance, causing damage to enemies in midair or on the ground. When the move is tapped, 2 shuriken's will be launched. If the move is held for longer, then 6 shuriken's will be released."
+      },
+      {
+        "name": "White Out",
+        "keybind": "X",
+        "mastery": 90,
+        "description": "The user creates a medium-sized snow tornado, carrying and pushing enemies, that then launches them up into the air. This tornado spins around for a few seconds and stuns the enemy."
+      },
+      {
+        "name": "Howling Wind",
+        "keybind": "C",
+        "mastery": 160,
+        "description": "The user creates a large and powerful whirlwind with their hand, stunning and damaging enemies while slightly sending them up."
+      },
+      {
+        "name": "Blizzard Domain",
+        "keybind": "V",
+        "mastery": 250,
+        "description": "The user charges and sucks in nearby enemies before summoning a massive snow dome, similar Control's Area, causing high damage to enemies within its boundaries."
+      },
+      {
+        "name": "Tornado Flight",
+        "keybind": "F",
+        "mastery": 40,
+        "description": "The user rides on a snow tornado that damages and slightly stuns while pushing enemies away. This move can be sustained infinitely."
+      }
+    ]
+  },
+  "pain": {
+    "rarity": "legendary",
+    "type": "natural",
+    "money": 2300000,
+    "robux": 2200,
+    "value": "underpaid",
+    "demand": "1",
+    "description": "Blox Fruits, a popular game on the Roblox platform, has managed to capture the attention of millions of users with its intriguing variety of “fruits.” Among this range, one of the most intriguing is the “Pain ” fruit. In this article, we will explore the characteristics, value, and impact of Pain in Blox Fruits.",
+    "skills": [
+      {
+        "name": "Heavy Pain",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user launches a high-speed, long range paw-shaped projectile which deals good damage and applies a paw mark on the target, which was only cosmetic. This move can also hit multiple targets as the paw goes through."
+      },
+      {
+        "name": "Pain Barrage",
+        "keybind": "X",
+        "mastery": 100,
+        "description": "The user launches a barrage of high-speed and long range paw-shaped projectiles that deal medium damage each. This move deals great damage if all the projectiles hit. This move also applies a paw mark on the target, which was only cosmetic. This move can also hit multiple targets as the paw goes through."
+      },
+      {
+        "name": "Pain Nuke",
+        "keybind": "C",
+        "mastery": 200,
+        "description": "The user shoots a small, high-speed, and long range paw-shaped projectile that explodes into a massive paw-shaped explosion, dealing high damage while flinging targets into the air."
+      },
+      {
+        "name": "Torture",
+        "keybind": "V",
+        "mastery": 300,
+        "description": "The user shoots a large and long-range red pulsating paw that blinds an opponent and deals tick damage over time, while breaking Instinct in the process."
+      },
+      {
+        "name": "Self Repel",
+        "keybind": "F",
+        "mastery": 50,
+        "description": "The user launches themselves at the mouse cursor, covering a great distance in the process, as well as traveling the farthest among other travel moves such as Ghastly Step, and Electric Flash."
+      }
+    ]
+  },
+  "rumble": {
+    "rarity": "legendary",
+    "type": "elemental",
+    "money": 2100000,
+    "robux": 2100,
+    "awakening": 14500,
+    "value": "stable",
+    "demand": "8",
+    "description": "The Rumble fruit in Blox Fruits is an intriguing and powerful resource that leaves a lasting impression on players. Categorized as an elemental type fruit, this fruit is a force to be reckoned with and can be obtained for $2,100,000 or 2,100 Robux from the Blox fruit vendor.",
+    "passive": [
+      {
+        "name": "Elemental Reflex",
+        "description": "The wielder is immune to all physical attacks (Fighting Styles, Swords, and Guns) unless they are imbued with Aura or, in the case of an NPC, they are higher level."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Rumble Dragon",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user unleashes a ferocious lightning dragon that explodes upon impact. if the ability does not hit anything within a certain range, it will detonate on its own."
+      },
+      {
+        "name": "Sky Thunder",
+        "keybind": "X",
+        "mastery": 90,
+        "description": "The player summons massive lightning bolts that rain down upon their enemies, causing significant damage and temporarily stunning those who is hit. Despite its formidable power, it's cooldown is quite short. The lightning strikes is randomized, making each unique."
+      },
+      {
+        "name": "Sky Beam",
+        "keybind": "C",
+        "mastery": 160,
+        "description": "The user creates a large beam of lightning from the sky which upon hitting an NPC/player, does a lot of damage and stuns. The attack also levitates its targets."
+      },
+      {
+        "name": "Thunder Bomb",
+        "keybind": "V",
+        "mastery": 250,
+        "description": "The user summons some thunderclouds that form into a large electrical orb, crackling with energy. When the user lets go, the orb hits the ground, and explodes and deals high damage, levitating any targets caught. Additionally, anyone in it is stunned for a decent while."
+      },
+      {
+        "name": "Lightning Dash",
+        "keybind": "F",
+        "mastery": 30,
+        "description": "The user becomes lightning and moves toward the cursor at lightspeed. This has incredibly short cooldown, because you cannot actually fly with it."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Lightning Beast",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The user creates a beast crafted from lightning, which explodes upon impact, makes an explosion that damages and deals great knockback. The attack also has auto aim to a slight degree. This ability is notably easier to land than the Rumble Dragon attack."
+      },
+      {
+        "name": "Thunderstorm",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 90,
+        "description": "The user summons a colossal thundercloud, commanding bolts of lightning to strike down within a wide radius, dealing massive damage and stunning those who are hit. The attack can be aimed and has a faster casting time than the Sky Thunder ability. It should be noted that the initial lightning bolt strike will inflict greater damage than subsequent strikes."
+      },
+      {
+        "name": "Sky Judgement",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 160,
+        "description": "With a faster activation time, but a shorter duration, the user summons a massive lingering thunderbolt that strikes the ground, inflicting swift damage and paralyzing any enemy caught in its wake. The attack leaves a distinct blue, scorched pattern on the ground for a few seconds."
+      },
+      {
+        "name": "Thunderball Destruction",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 250,
+        "description": "The user gathers thunderclouds to form a massive blue-black spherical bomb constructed entirely of lightning. Upon launch, the bomb gradually expands, inflicting constant damage and stunning any enemy caught within its gigantic hitbox before finally dissipating. This move has among one of the largest hitboxes in the game."
+      },
+      {
+        "name": "Electric Flash",
+        "keybind": "F",
+        "price": 2000,
+        "mastery": 40,
+        "description": "The user instantly teleports in the direction of their choice. While the ability has a negligible cooldown prior to its upgrade, it now requires charges to use. The user has three charges, with one charge replenishing every 12 seconds. Additionally, the teleportation attack has a small hitbox that inflicts minimal damage and a slight stun effect. The charge count is displayed on a GUI at the top of the screen."
+      }
+    ]
+  },
+  "portal": {
+    "rarity": "legendary",
+    "type": "natural",
+    "money": 1900000,
+    "robux": 2000,
+    "value": "stable",
+    "demand": "9",
+    "description": "Blox Fruits, the popular Roblox game, features a wide range of magical fruits, each with its own powers and abilities. Among all of them, the Portal Fruit stands out for its versatility and unique functions. Formerly known as the Portal Fruit, the Portal Fruit has been completely redesigned in Update 18 to offer a new range of abilities, expanding the possibilities for gameplay and strategy.",
+    "skills": [
+      {
+        "name": "Portal Jump",
+        "mastery": 0,
+        "description": "When tapping or clicking, the user jumps forward with great speed while backflipping, and leaps off of any nearby objects. This move does not deal damage and does not collide with NPCs or players. It has a 4 second cooldown."
+      },
+      {
+        "name": "Portal Dash",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user dashes forward, in a manner closer to a teleport than a dash. If it hits an enemy, it sends them through multiple portals throwing them around, and finally smashing them to the ground. This move only breaks Instinct on the final smash. However, if the enemy has Instinct enabled and you hit them with the portal dash, it will still send them through the portals and deal damage. It just won't break their Instinct when being sent through the portals. This move also has slight auto-aim."
+      },
+      {
+        "name": "Parallel Escape",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "The user enters a separate dimension that lasts for a few seconds. During this state, the user becomes invisible and invincible and is able to move around freely, and it also makes you immune to water. However, if the user uses any skill, it exits them out of the dimension immediately. If the user uses this move next to an enemy, it damages them and stuns them for a little bit. This move can break Instinct."
+      },
+      {
+        "name": "World Wrap",
+        "keybind": "C",
+        "mastery": 200,
+        "description": "The user creates a portal that teleports them to a place of their choice. Other players can go through the same portal unless it's a safe zone, and neither the user nor other players can go back through. Players allied with the user can be teleported, in safe zone or not."
+      },
+      {
+        "name": "Dimensional Right",
+        "keybind": "V",
+        "mastery": 300,
+        "description": "The user creates a rift to a separate dimension that attracts and pulls in the user along with other enemies in, only if at proximity. Everyone that is absorbed in it will be put into a flat dimension, while the only escape is by entering through the portal above. While in the dimension, the user's energy slowly drains. The rift lasts until the user's energy is fully drained, until the user has left/closed the rift, or died."
+      },
+      {
+        "name": "Quantum Leap",
+        "keybind": "F",
+        "mastery": 100,
+        "description": "The user makes a portal at their cursor and another where they stand. This is a short-range teleport move. If it is opened on an enemy, it will deal some damage (also deals damage if you are right next to them when using the skill)."
+      }
+    ]
+  },
+  "phoenix": {
+    "rarity": "legendary",
+    "type": "beast",
+    "money": 1800000,
+    "robux": 2000,
+    "value": "stable",
+    "demand": "5",
+    "description": "In the vast universe of the video game Blox Fruits, Phoenix presents itself as a fascinating and potentially powerful choice for players. As a Beast-type fruit, it has the ability to change the dynamics of the game if used correctly. Here is a comprehensive analysis of the Phoenix fruit, how to awaken it, its unique abilities, and its strategic potential in the game.",
+    "skills": [
+      {
+        "name": "Canon",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user charges up a flaming blow and releases them forward to make a powerful mid-range attack with high knockback, Similar to Gravity's Z move. This move's range increases while transformed."
+      },
+      {
+        "name": "Regeneration Flames",
+        "keybind": "X",
+        "mastery": 90,
+        "description": "The user evokes blue and yellow flames around themselves to regain health in a certain radius (can also heal allies within the radius), whilst rapidly consuming stamina."
+      },
+      {
+        "name": "Fast Kick",
+        "keybind": "C",
+        "mastery": 160,
+        "description": "The user pulls back their leg and dashes forwards, releasing a quick kick in the direction the user is facing. The cooldown for this move is the second shortest."
+      },
+      {
+        "name": "Full Transformation",
+        "keybind": "V",
+        "mastery": 250,
+        "description": "The user fully transforms into a blue and yellow Phoenix. This transformation takes around 10 energy every 1.5 seconds, and provides a ~15% defense bonus. The only moves that take away energy in this transformation are Transformation and Regeneration Flames."
+      },
+      {
+        "name": "Hybrid Flight",
+        "keybind": "F",
+        "mastery": 30,
+        "description": "Allows the user to fly in hybrid form, does not drain the energy, but the player must hold the F key, or d-pad right on Xbox. The player will gain fiery yellow wings with blue borders."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Tap",
+        "price": 4000,
+        "mastery": 0,
+        "description": "The user dashes forward in the direction of the cursor, slightly stunning the enemies and creating an explosion after the dash. Consumes 40 energy."
+      },
+      {
+        "name": "Cremation Canon",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The user swiftly shoots a rift of flames toward their cursor that explodes on contact. It can leave flames on the ground that deal tick damage. This ability shoots out three balls of blue fires once in transformation that leaves three paths of blue flames. It has a 9 second cooldown and consumes 60 energy."
+      },
+      {
+        "name": "Blue Flames",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 90,
+        "description": "The user covers themselves in a huge bubble, healing themselves based on how long the move is held. The bubble will also act as a barrier that damages and knockback anything that comes close enough. The bubble gets bigger once in transformation and may or may not deal more damage."
+      },
+      {
+        "name": "Flame Exodus",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 160,
+        "description": "The uses dashes forward in a rift of flames. If the user comes into contact with an enemy, they will bring them up into the air using a tornado-like spell made out of phoenix flames, then crash the enemy into the ground, dealing explosion damage and leaving flames on the ground (Only when transformed will it leave flames on the ground) that deal tick damage. Estimated value, as the launch in the air means that the enemy is not in the flames from the beginning. It has a 9 second cooldown and consumes 40 energy."
+      },
+      {
+        "name": "Blazing Plumage",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 250,
+        "description": "The user fully transforms into a blue and yellow Phoenix, improving their abilities. Passively drains 10 energy per second. This ability provides a 15% damage reduction and 10% damage buff. You can also fly passively once in transformation, but you will be unable to use any other weapons aside from your fruit. Once activated, this ability leaves a spot of Blue Flame on the ground that deal surprisingly high damage."
+      },
+      {
+        "name": "Swift Flight",
+        "keybind": "F",
+        "price": 2000,
+        "mastery": 30,
+        "description": "The user can fly freely using the movement keys and is not steered by the cursor. Stops energy regeneration while active. If the user stops mid-air, blue and yellow flames will rain down from their wings, doing small tick damage. Unlike other Beast fruits, when you press F in transformed form, the user will dash forward and claw at the enemy a few times before launching them away with a small explosion, this can be dodged."
+      }
+    ]
+  },
+  "spider": {
+    "rarity": "legendary",
+    "type": "natural",
+    "money": 1500000,
+    "robux": 1800,
+    "awakening": 17300,
+    "value": "stable",
+    "demand": "5",
+    "description": "The fascinating diversity of fruits in Blox Fruits is one of the aspects that makes this game so interesting and appealing. One of the most intriguing fruits, the Spider Fruit, formerly known as the String Fruit, has unique value and uses that set it apart in the game. In this article, we will delve deep into the Spider Fruit, uncovering its secrets, functionalities, and optimal strategies for its use.",
+    "skills": [
+      {
+        "name": "Spider Wraith",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The player swipes at the opponent and summons a claw to knockback the player. Its hitbox and range is very small."
+      },
+      {
+        "name": "Multi-string Attack",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "The player impales their target from above with five strings, dealing medium AoE damage, and also briefly stuns anyone hit by it."
+      },
+      {
+        "name": "Over-heated Sniper",
+        "keybind": "C",
+        "mastery": 100,
+        "description": "The player shoots a thick rope made of condensed strings from their palm which deals great damage. The damage for this move depends on how far you are from the opponent(s). The further away you are from the opponent(s), the higher the damage they will receive. This move has the second best range in the game, leaving a short invisible tripwire effect, which will deal damage when stepped on and breaks Instinct no matter what."
+      },
+      {
+        "name": "Ultimate Thread",
+        "keybind": "V",
+        "mastery": 225,
+        "description": "The player creates multiple strings weaved together (covered in Aura) and sends them at enemies in a piercing formation. Deals damage in a sharp cone shaped hitbox and stuns targets."
+      },
+      {
+        "name": "Spider Path",
+        "keybind": "F",
+        "mastery": 15,
+        "description": "The player summons a ton of threads under it's body and levitates. This move's mobility is decent."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Thermal Laceration",
+        "keybind": "Z",
+        "price": 800,
+        "mastery": 1,
+        "description": "The user slashes forth up to four fiery blades of hot strings that deal good damage (amount of strings and their damage varies depending on how long the user holds the move), with the fourth one resembling the shape of the letter 'X'"
+      },
+      {
+        "name": "Silk Prison",
+        "keybind": "X",
+        "price": 3500,
+        "mastery": 50,
+        "description": "The user shoots out strings upwards from their hand and creates a large circular cage that when held, traps targets inside. Then, the cage quickly shrinks and slashes whoever is inside of it, dealing instant damage. If held, the size of the cage increases by a fair amount, although doesn't affect the damage."
+      },
+      {
+        "name": "Ethernal White",
+        "keybind": "C",
+        "price": 4500,
+        "mastery": 100,
+        "description": "he user summons large, white spears of strings that leave the ground and hit wherever the cursor is located. If the cursor is close enough, the move will auto-target nearby enemies. Damage gets smaller over time and most of the damage is dealt during the early stage of the move (one string does less damage than the string before it)."
+      },
+      {
+        "name": "Heavenly Punishment",
+        "keybind": "V",
+        "price": 6000,
+        "mastery": 225,
+        "description": "The user shoots out hundreds of dark red and maroon strings rapidly, in a more cylindrical hitbox. This move has a small start-up time, however it stuns while dealing massive damage to anyone they hit. Its color changes according to the user's aura color, like Dough."
+      },
+      {
+        "name": "Spider Highway",
+        "keybind": "F",
+        "price": 2500,
+        "mastery": 15,
+        "description": "The user shoots out a string and swings to where the user is faced. Speed scales with user's health. Holding this move can allow the user to swing slightly farther, although not very noticable."
+      }
+    ]
+  },
+  "sound": {
+    "rarity": "legendary",
+    "type": "natural",
+    "money": 1700000,
+    "robux": 1900,
+    "value": "stable",
+    "demand": "",
+    "description": "Imagine a power so profound that it turns the tide of battle with the mere ripple of a soundwave. The Sound Fruit, a legendary artifact within the Blox Fruits universe, harmonizes destruction and strategy with every note. This comprehensive guide is your score to mastering the Sound Fruit’s capabilities in Update 20.",
+    "passive": [
+      {
+        "name": "Tempo Aura",
+        "description": "All moves that are used while in the golden mode, turn gold, deal more damage, and have lower cooldown. The Tempo Meter can be filled by either holding [F] Tempo: Prestissimo or hitting an enemy with this fruit's abilities. The Tempo Meter runs out after 10 seconds. When the meter is maxed, the user and nearby allies gain a shield that reduces incoming damage by 20%, their speed is increased by 50%, and moves will do 10% more damage. It is recommended using Rabbit v3 for even more speed, this method can be used as an alternative of Leopard V."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Rhapsody Notes",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user shoots out three projectile notes on the first use horizontally, five on the second use horizontally, and five on the third use vertically at where the cursor aims at. Projectiles explode and deal damage to enemies on impac"
+      },
+      {
+        "name": "Fortissimo",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "The user generates a cone-like shaped note attack, dealing AoE damage and knocking back enemies."
+      },
+      {
+        "name": "Symphonic Radiance",
+        "keybind": "C",
+        "mastery": 100,
+        "description": "The user generates a disco ball that fires beams which auto aim at all nearby enemies at a large range. After that, the disco ball fires itself to where the cursor is aiming at and explodes on impact. Damage dealt to an enemy is multiplied by x0.85 each time the move hits them."
+      },
+      {
+        "name": "Glorious Harmony",
+        "keybind": "V",
+        "mastery": 250,
+        "description": "The user releases five small, and then large projectiles, which explode on impact. The larger projectiles will summon a blackhole attracting nearby enemies and dealing damage for a short time after exploding."
+      },
+      {
+        "name": "Tempo: Pretissimo",
+        "keybind": "F",
+        "mastery": 175,
+        "description": "Flight move, regenerates Tempo Meter. Health and energy generation is disabled while the move is activated, like almost all mobility moves."
+      }
+    ]
+  },
+  "love": {
+    "rarity": "legendary",
+    "type": "elemental",
+    "money": 500000,
+    "robux": 950,
+    "value": "stable",
+    "demand": "5",
+    "description": "In the intriguing universe of Blox Fruits, a world of virtual adventure and excitement, the Love Fruit stands out remarkably. This legendary natural fruit has captivated players with its dynamism, and its history is as fascinating as its powers.",
+    "passive": [
+      {
+        "name": "Lovestruck",
+        "description": "Each attack on an enemy makes the enemy \"fall in love\" with the user, temporarily decreasing their damage against the user. This decreases the damage dealt by roughly 30%. At the same time, it makes the screen pop with hearts and distorts the screen."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Heart Shot",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user shoots an arrow shaped like a heart towards the cursor, which explodes upon contact, or when the max range is reached."
+      },
+      {
+        "name": "Cupid Zone",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "The user shoots an arching arrow of perfume into the air aimed towards the cursor. When the max range is reached, the arrow explodes into a cloud of perfume with a shining heart on top."
+      },
+      {
+        "name": "Irresistable Attraction",
+        "keybind": "C",
+        "mastery": 150,
+        "description": "The user creates a heart from their hand, then creates a large circle around them. Any enemy within the circle will be pulled towards the player. Once the key is released, the heart explodes, dealing damage to everything within range."
+      },
+      {
+        "name": "Besto Friendo",
+        "keybind": "V",
+        "mastery": 200,
+        "description": "The user shoots a heart-shaped arrow, which explodes into a large heart explosion. The explosion creates a \"Friend\", a friendly NPC wielding the Canvander, they can jump, dash, attack and swim. The damage dealt by this NPC scales off the user's level."
+      },
+      {
+        "name": "Flamingo Ride",
+        "keybind": "F",
+        "mastery": 100,
+        "description": "The user creates a flying flamingo to ride on, allowing them to fly in all directions freely. All of the fruit's moves can be used without freezing up while riding on the flamingo, but not other weapons' moves."
+      }
+    ]
+  },
+  "buddha": {
+    "rarity": "legendary",
+    "type": "beast",
+    "money": 1200000,
+    "robux": 1650,
+    "awakening": 14500,
+    "value": "overpaid",
+    "demand": "10",
+    "description": "Blox Fruits, the fascinating and action-packed Roblox game, brings players an incredible array of powerful fruits with exceptional abilities, among which one stands out: the Buddha Fruit. This fruit is unbelievably good at grinding, hence it is a must-fruit for grinders.",
+    "passive": [
+      {
+        "name": "Divine Aura",
+        "description": "While transformed, the player gains a 40% (50% if V2) defense buff against all attacks, and can hit enemies with their melee and sword click 5x (8x if V2) farther than a normal player. In V2, the player's hitbox is above water and thus has the water-walking passive ability. If dragged underwater, the user will take damage unless they have Shark race V2, V3, or V4."
+      },
+      {
+        "name": "Seismic Jump (V2)",
+        "description": "When pressing the \"Space\" key (Jumping while transformed), the user will create a small AOE shock wave that does relatively small damage to enemies, breaks Instinct and will also jump at least 2x as high (Stacks with Angel jump height boost) (Cooldown: 2 seconds. AOE) (V2 only)."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Transformation",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "Transform makes users almost triple their size, and a gold aura is seen around and on them. Upon transformation, they will receive 40% damage reduction and become slower while having 5x the reach of a normal player."
+      },
+      {
+        "name": "Impact",
+        "keybind": "X",
+        "mastery": 1,
+        "description": "The user charges a shining ball of light, then touches the ground with their palm, creating a large explosion that blows nearby enemies away. A large amount of startup time renders the player vulnerable. This move can be only used in Buddha form."
+      },
+      {
+        "name": "Buddha Leap",
+        "keybind": "C",
+        "mastery": 100,
+        "description": "The user leaps into the air, landing where the cursor is pointed. This creates a shock wave that damages on impact. This move has a one-second end-lag. This move can be only used in the Buddha form."
+      },
+      {
+        "name": "Buddha Explosion",
+        "keybind": "V",
+        "mastery": 200,
+        "description": "The user charges itself for 0.5 seconds inside its body, then lets out a large explosion around them, dealing heavy damage to all enemies nearby and launching them away. This move can only be used in the Buddha form."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Shift",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The user transforms into a golden giant Buddha that has three rings and two squares with symbols with the squares having Chinese Hanzi that surrounds the user, and a thunder light will hit any player nearby (except ally), dealing damage. During the transformation, the player does not take any damage when in water, allowing them to dash, Flash Step, and reset their sky jumps. This will buff the player's damage reduction by 50% and stacks with Aura. Jumping will deal damage to nearby enemies and break their Instinct ability. (due to the animation of this move being under the ground, you can use this move to collect fruits that are put under tables)"
+      },
+      {
+        "name": "Heavenly Impact",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 1,
+        "description": "The user slams the ground with their fist and an explosion occurs as light erupts from the place hit. This move breaks Instinct."
+      },
+      {
+        "name": "Light of Annihilation",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 100,
+        "description": "The player gathers energy, then explodes with a big explosion, shooting a light beam out of their mouth, dealing damage. This move breaks Instinct."
+      },
+      {
+        "name": "Twilight of the Gods",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 200,
+        "description": "The player quickly rises up and then continuously fires beams of light that explode on impact finishing with a column of light surrounding the user (the light column deals damage). This move breaks Instinct. The enemy is completely stunned during the attack and the final light column stuns for 3-4 seconds. The user is unable to move around during the duration of this move."
+      },
+      {
+        "name": "Retribution Dash",
+        "keybind": "F",
+        "price": 2000,
+        "mastery": 0,
+        "description": "The player dashes forward, creating a trail of golden light behind. If they touch an enemy when dashing, they will hold the enemy up and then slam them into the ground. The player cannot take damage during the animation of the attack."
+      }
+    ]
+  },
+  "quake": {
+    "rarity": "legendary",
+    "type": "natural",
+    "money": 1000000,
+    "robux": 1500,
+    "awakening": 17500,
+    "value": "stable",
+    "demand": "4",
+    "description": "In the thrilling universe of Blox Fruits, there is an element that stands out for its power and exclusivity: the Quake fruit, also known as Temblor. With a 6% chance of availability and a 6.4% chance of appearing in the game, it is a coveted treasure among players for its excellent performance in PvP combat, bounty hunting, and boss battles.",
+    "skills": [
+      {
+        "name": "Quake Punch",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The player charges an energy ball and cracks the air doing high damage. This move also shakes the victim's screen and has high knockback. However, the hitbox is relatively small, and has a small startup, thus making it harder to land on players."
+      },
+      {
+        "name": "Quake Wave",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "The player charges an energy ball on their hand and launches a huge quake sphere towards the target that does a large amount of damage. The move shakes the opponent's screen in the process. The sphere is slow moving, and pushes away enemies slightly."
+      },
+      {
+        "name": "Quake Erupt",
+        "keybind": "C",
+        "mastery": 100,
+        "description": "The player holds two quake spheres on their hands and smashes the ground doing great damage in an area. This move has a small startup."
+      },
+      {
+        "name": "Dual Tsunami",
+        "keybind": "V",
+        "mastery": 150,
+        "description": "The player cracks the air. After a while two tsunamis from both sides will come, dealing very high damage to the target."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Fatal Demolisher",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The player pulls their opponent towards them, dealing very low damage at first, and then launches the target away from them (similar to Sharkman Karate C), dealing high damage to the target. (will also cause flashing lights and screen shaking)."
+      },
+      {
+        "name": "Air Crusher",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 50,
+        "description": "The player charges an energy ball and then launches a large spherical orb of energy at the target, dealing medium-high damage and shaking the opponent's screen."
+      },
+      {
+        "name": "Spatial Shockwave",
+        "keybind": "C",
+        "price": 5000,
+        "mastery": 100,
+        "description": "The user grasps two balls of energy in their hands. Then the player creates a large shockwave around themselves which deals heavy damage and high knockback. This move causes intense shaking to anyone within the move's hitbox."
+      },
+      {
+        "name": "Seaquake",
+        "keybind": "V",
+        "price": 8000,
+        "mastery": 150,
+        "description": "The user smashes the ground, stunning the opponent(s) and dealing damage while also bringing forth four slightly bigger tsunamis, each coming from every direction (causes stuns and shaking). If this move is used in the air, the user will come down onto the ground at a high speed and then smash the ground. If the user isn't able to touch the ground (e.g. if they're above the sea), the tsunamis and ground smash won't show, thus making the move useless."
+      }
+    ]
+  },
+  "gravity": {
+    "rarity": "mythical",
+    "type": "natural",
+    "money": 2500000,
+    "robux": 2300,
+    "value": "underpaid",
+    "demand": "2",
+    "description": "In the challenging universe of Blox Fruits, the Gravity Fruit holds a prominent place. Being one of the mythical and more affordable fruits in the game (according to Update 19), it presents itself as an intriguing option for players looking to maximize their in-game experience. Despite its redesign in Update 17.3, many players still question its viability in PvP or PvE battles.",
+    "skills": [
+      {
+        "name": "Gravity Push",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user generates a powerful gravitational force in front of them, which forcefully propels enemies backward and causes the ground to shift. Notably, if the player aims slightly downward towards the ground, it can trip the enemies being pushed, resulting in them being propelled even further over a considerable distance."
+      },
+      {
+        "name": "Gravity Obeisance",
+        "keybind": "X",
+        "mastery": 100,
+        "description": "The user creates a expanding crater beneath themselves, causing gravity to exert force on any enemies trapped within. This results in continuous damage being inflicted on the affected enemies. The duration and range of this attack increase based on the length of time the move is held."
+      },
+      {
+        "name": "Meteor Pitch",
+        "keybind": "C",
+        "mastery": 200,
+        "description": "The user shoots a purple beam into the sky, summoning a singular meteor to descend upon the location of the user's cursor."
+      },
+      {
+        "name": "Meteors Rain",
+        "keybind": "V",
+        "mastery": 300,
+        "description": "The player shoots a purple beam upwards, and calls down a barrage of meteors, dealing massive damage to anyone unfortunate enough to get hit by a lot of them. The meteors can be controlled by moving the mouse shortly after the skill has been pressed."
+      },
+      {
+        "name": "Boulder Flight",
+        "keybind": "F",
+        "mastery": 50,
+        "description": "The player summons a rideable boulder that mimics the material beneath them and allows them to fly in their desired direction. This ability can only be initiated when the user is on the ground. Dissapears if hit."
+      }
+    ]
+  },
+  "dough": {
+    "rarity": "mythical",
+    "type": "elemental",
+    "money": 2800000,
+    "robux": 2400,
+    "awakening": 18500,
+    "value": "stable",
+    "demand": "9",
+    "description": "In the Blox Fruits universe, elemental fruits play a crucial role in the gaming experience. Among these, the Dough Fruit, or Masa, is a mythical element that presents a series of unique attributes and abilities. It was introduced in Update 9 and reached its full potential in Update 17.3.",
+    "passive": [
+      {
+        "name": "Elemental Reflex",
+        "description": "The user is immune to all physical attacks (Fighting Style, Sword, Gun) from players without Aura and lower level Non-Boss NPCs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Fried Dough",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "Turns the user's arm into an averaged sized piece of reddish orange oval dough and then shoots the dough. If the dough hits the ground or is at its max range, it will explode (averaged sized piece of orange sphere), dealing AOE damage. Landing this move directly on the player's hitbox will push them back but, it can be dodged by instinct. However, if the player gets hit due to AOE, it will break Instinct. The cooldown is 9 seconds."
+      },
+      {
+        "name": "Sticky Dough",
+        "keybind": "X",
+        "mastery": 100,
+        "description": "The user creates a long lasso out of dough. If the lasso makes contact with the enemy, the enemy will get lifted up and then slammed down. It does not break Instinct and is single-target. It has a cooldown of 13 seconds. The lasso can be aimed while holding the user."
+      },
+      {
+        "name": "Carved Dough",
+        "keybind": "C",
+        "mastery": 200,
+        "description": "Turns the user into a donut, and when the [C] key is released, it turns the user's hand into a fried dough-like club but black and spikey and slams the user down on the target. If this attack hits, it will knock the target up while breaking Instinct. Although it can be used to travel, it’s not recommended because of the short travel time. It has a cooldown of 16.5 seconds."
+      },
+      {
+        "name": "Restless Dough",
+        "keybind": "V",
+        "mastery": 300,
+        "description": "The user makes rings around the target. The rings will have fists (without Aura colors) coming out and hitting targets if the targets are in the range of the attack. It hits the targets more if the [V] button is held longer. This stuns the enemies in place while breaking Instinct. It has a cooldown of 22 seconds."
+      },
+      {
+        "name": "Roller Donut",
+        "keybind": "F",
+        "mastery": 50,
+        "description": "The user turns into a donut and rolls at a decent pace. However, it can only travel for 30 seconds. It cannot roll above water, unlike its awakened version. The higher the user's health, the faster they will roll. This move has a cooldown of 7 seconds."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Dough Fists",
+        "price": 4000,
+        "mastery": 0,
+        "description": "The user summons a Donut which punches directly at the cursor. The maximum amount of punches before the move restarts is three."
+      },
+      {
+        "name": "Missile Jab",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The user's arms turn into a chunk of dough. When released, the user fires a missile of dough, which causes an AOE explosion. Can be held for more damage and AOE. Charging the move up only requires 0.5 seconds, so it is recommended to charge the move up when using it. It flings the user back slightly, depending on how long you held it."
+      },
+      {
+        "name": "Pastry River",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 100,
+        "description": "This move offers two distinct variations:\n\nIf in ground: The user summons a statuette from the ground which plumages the enemy upwards. After a moment, the enemy crashes on the ground, stunning them.\n\nIf in air: The user barrages them with dough, and when it is fully complete, it punches the enemy into the ground."
+      },
+      {
+        "name": "Piercing Clothesline",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 200,
+        "description": "The user turns into a spiked donut, and if the user collides into an enemy they will grab them, and swings them around, (stuns) and slams them on the ground, causing debris to fly into the air, dealing massive damage. This can be used for a combo extender and pairs greatly with other fighting styles such as Godhuman."
+      },
+      {
+        "name": "Dough Fist Fusillade",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 300,
+        "description": "The user summons a dozen of donuts. All of them punch directly in the cursor, similar to the Tap move. While the move begins, neither the user nor the enemy may move unless stopped by the user. This move cancels out if the user is damaged."
+      },
+      {
+        "name": "Scorching Donut",
+        "keybind": "F",
+        "price": 2000,
+        "mastery": 50,
+        "description": "The user turns into a spiked donut which is great for traveling. If a enemy gets hit, it will damage them while doing tick damage. This can be dodged by Instinct."
+      }
+    ]
+  },
+  "shadow": {
+    "rarity": "mythical",
+    "type": "natural",
+    "money": 2900000,
+    "robux": 2425,
+    "value": "stable",
+    "demand": "7",
+    "description": "Discover the mystery and adventure that awaits in the Blox Fruits universe and delve into the enigmatic world of the Shadow fruit. This mythical fruit, which costs $2,900,000 or 2,425 Robux, has a ghostly presence in the game, appearing only with a 1.3% probability in each stock, and a 1.1% chance of manifesting every hour.",
+    "passive": [
+      {
+        "name": "Umbra Meter",
+        "description": "The user will always have an Umbra Meter bar on their screen. The meter fills up by dealing damage with Shadow abilities to enemies, and fills up automatically during night. The Umbra Meter can only be drained by using [V] Corvus Torment. The user will also get a shadow aura surrounding themselves that will be bigger and darker, depending on the amount of Umbra Meter they have."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Somber Rebellion",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user turns into a small dark orb of shadow, then dashes towards their cursor. Upon contact with an opponent, the user will turn into bats and damage the enemy, then launch themselves upward, leaving the enemy on the ground. the user will receive i-frames during the duration of the move if they land it."
+      },
+      {
+        "name": "Shade Nest",
+        "keybind": "X",
+        "mastery": 100,
+        "description": "The user shoots a swarm of bats towards the cursor. Upon surface contact, the swarm will explode, dealing damage and sending a few small crows which will then fly to a nearby enemy and damage them. The crows have slight auto-aim, and will attempt to fly towards the target if close enough. Note: multiple bats can attack the same target."
+      },
+      {
+        "name": "Nightmare Leech",
+        "keybind": "C",
+        "mastery": 200,
+        "description": "The user lunges forward. If the user makes contact with an enemy, the user will regain 20% of their max health and deal good damage to the enemy, knocking them back. This move is similar to Superhuman/Godhuman [C] but shorter."
+      },
+      {
+        "name": "Corvus Torment",
+        "keybind": "V",
+        "mastery": 300,
+        "description": "The user inflates their body into a massive black hole. The user will then explode, draining their entire Umbra Meter. The explosion will do extreme damage and leave behind a swarm of bats which will deal passive damage to any enemies inside of the cloud. The enemies' vision will also get slightly distorted if they get hit by the explosion. The size of the black hole and explosion is based on how high the user's Umbra Meter is. The remains of the explosion doesn't really stun. Instead, it kind of pulls the enemies back inside the explosion remains, similar to real black holes. However, it is possible to escape the explosion's remains using teleportation moves like Flash Step, Pain [F], Dark [F] or Rumble [F]."
+      },
+      {
+        "name": "Umbrage",
+        "keybind": "F",
+        "mastery": 50,
+        "description": "The user transforms into a swarm of bats, giving the user the ability to fly at a medium pace. Flying close to enemies will project bats into enemies, damaging them. After a while, you will return to normal"
+      }
+    ]
+  },
+  "venom": {
+    "rarity": "mythical",
+    "type": "natural",
+    "money": 3000000,
+    "robux": 2450,
+    "value": "stable",
+    "demand": "8",
+    "description": "The Venom Fruit, with its unique ability to inflict considerable damage on opponents, has earned a prominent place in the current meta of the game.  The Venom Fruit is a strategic choice that deserves our full attention.",
+    "passive": [
+      {
+        "name": "Lava Immunity",
+        "description": "When Transformed, the player can walk on lava found in Magma Village and Hot and Cold hot side. They can still take damage from the lava if they are pushed into it."
+      },
+      {
+        "name": "Deadly Venom",
+        "description": "Every NPC or player within the radius of certain attacks of Venom (X, C, and F explosion) will be inflicted with a poisonous miasma, which deals a hefty amount of damage. Also causes the screen to turn dark purple and wobble."
+      },
+      {
+        "name": "Puddles of Venom",
+        "description": "The user can make poisonous puddles by certain attacks (Z, X and Transformed C). Upon standing on it, the puddles deals damage to enemies, but they won't be affected by miasma and will not be damaged if they walk out from the Puddles."
+      },
+      {
+        "name": "Fury Meter",
+        "description": "The user starts off with 50% of their \"Fury Meter\" bar filled upon spawning. Your fury meter needs to be full to be able to transform. Fury is regained over time and drains while you are transformed. Using moves while transformed also decreases your fury meter by various amounts. When transformed, gains a 62.5% defense buff with enhanced attacks."
+      },
+      {
+        "name": "Venom Drop",
+        "description": "While transformed, Air Jumping two or more times or going up to a good height and then falling to the ground will cause a small explosion and leaves poison puddles. It is worthy to note that the longer you fall does not affect the spread of the puddles."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Poison Daggers",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user fires a barrage of poisonous blades similar to Dragon C and launches them at the enemy with all landing simultaneously on the target. This leaves a puddle of Venom Miasma on the ground. Holding Z will make you fire more blades."
+      },
+      {
+        "name": "Noxious Shot",
+        "keybind": "X",
+        "mastery": 100,
+        "description": "The user gathers a large poison ball around their hands. After releasing the key, the user launches 3 bolts of venom at the same time, dealing damage and leaving 1 puddle that splits into 3 more puddles. People that get hit by this move will have their vision distorted for a short while (NOTE : This ability has aim-assist/autoaim)"
+      },
+      {
+        "name": "Toxic Fog",
+        "keybind": "C",
+        "mastery": 200,
+        "description": "The user produces a deadly smoke, surrounding them completely until its duration ends. The smoke will continually deals damage to the opponent (5-6 ticks) if they stay within the proximity of the Venom user. Interestingly, once the opponent is damaged by only one tick of this move, or damaged until the smoke ends, they will still take poison damage, meaning that this move inflicts EXTRA poison damage (3-4 ticks), which is pretty much similar the X move."
+      },
+      {
+        "name": "Transformation",
+        "keybind": "V",
+        "mastery": 300,
+        "description": "The user gathers a large amount of venom and then transforms into a Three-Headed Dragon. While transformed, Venom users take the form of a giant three-headed draconic monster, resembling a hydra. This move tremendously boosts damage for all of its attacks in the moveset, and massively increases poison damage (puddle). This move grants the user 62.5% defense against all attacks, and is immune to basic LMB attacks from NPCs (note that players could still hit you with M1s).transforming will drastically change your appearance. However, during transformed form you cannot use any other moves and attacks besides Venom's."
+      },
+      {
+        "name": "Serpent's Wrath",
+        "keybind": "F",
+        "mastery": 50,
+        "description": "The user surrounds themselves with venom that resembles a long serpent before beginning to fly. Your movement speed is quite slow in this form, but your speed increases as your health gets lower. Anyone that goes through the serpent will take continual poison damage. When the user stops holding F, it creates a small purple explosion, dealing AoE damage. Last for 30 seconds."
+      }
+    ]
+  },
+  "control": {
+    "rarity": "mythical",
+    "type": "natural",
+    "money": 3200000,
+    "robux": 2500,
+    "value": "stable",
+    "demand": "7",
+    "description": "In the cutthroat world of Blox Fruits, where power and agility dictate survival, the Control Fruit emerges as a beacon of dominance, intriguing players with its sophisticated gameplay and tactical prowess.",
+    "passive": [
+      {
+        "name": "Area-Bound",
+        "description": "Control's abilities are confined within the Area it establishes, which remains active for approximately 55 seconds."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Control Area",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "User creates an Area. Holding Z will make the Area bigger. When used with the Koko sword, both the Z and X move of the sword will be massively buffed."
+      },
+      {
+        "name": "Levitate",
+        "keybind": "X",
+        "mastery": 1,
+        "description": "The user levitates an object, or part of an object, and can then fling it by releasing the X key."
+      },
+      {
+        "name": "Echo Knife",
+        "keybind": "C",
+        "mastery": 150,
+        "description": "The user performs a laido strike. if hit, a cutscene will trigger where user perform a multiple slashes on target and then finish them off with the final blow, launching them onto air. It performs well with Cyborg’s Energy Core."
+      },
+      {
+        "name": "Gamma Rush",
+        "keybind": "V",
+        "mastery": 350,
+        "description": "The user launches a green projectile towards their cursor. If it hits an NPC or a player, cutscene will trigger where user begins to launch green slashes all over the Area/Room, damaging everyone inside of it. When the slashing ends, the user goes back to their physical form and do the last slash, dealing the most damage on a specific player/NPC who get hit by it."
+      },
+      {
+        "name": "Teleport",
+        "keybind": "F",
+        "mastery": 250,
+        "description": "Teleports the user to where their cursor is. The user can only teleport onto surfaces inside of their Area. Placing the cursor on a player makes them teleport behind said player."
+      }
+    ]
+  },
+  "spirit": {
+    "rarity": "mythical",
+    "type": "elemental",
+    "money": 3400000,
+    "robux": 2550,
+    "value": "stable",
+    "demand": "8",
+    "description": "Immersing yourself in the vibrant world of Blox Fruits is always an exhilarating experience. Among the most captivating elements is the Soul Fruit, a high-value option that allows players to harness the power of ice and fire, adding a strategic dimension to the game.",
+    "passive": [
+      {
+        "name": "Spirit Bar",
+        "description": "The user always has a Spirit counter on their screen. Spirits are collected over time and get used when you summon a buddy."
+      },
+      {
+        "name": "Angel & Demon",
+        "description": "The user will always have 2 certain Buddies around them, the Angel (Shu) and Demon (Ra)."
+      },
+      {
+        "name": "Buddies",
+        "description": "Spirits can be used by the user by clicking on the ground which will randomly summon unique and random buddies. The \"Heaven\" zone buddies supports the player, and the \"Hell\" zone buddies offend enemies."
+      }
+    ],
+    "skills": [
+      { "name": "Tap", "mastery": 0, "description": "Summon buddies." },
+      {
+        "name": "Frostfire Grasp",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user mounts on the Angel Buddy (Shu), and flies towards the position of their cursor. The user then summons an ice block that damages and stuns people."
+      },
+      {
+        "name": "Wrath of Ra",
+        "keybind": "X",
+        "mastery": 150,
+        "description": "The user sends the Demon Buddy (Ra) to the position of the cursor (this move can be held to reach further). The Demon Buddy (Ra) then explodes into a pillar of fire, damaging enemies and launching 4 fiery balls into the air. This move has burn damage."
+      },
+      {
+        "name": "Wrath of Shu",
+        "keybind": "C",
+        "mastery": 250,
+        "description": "The user mounts onto the Angel Buddy (Shu) and swiftly dashes to the cursor's location, then stomps on the Angel Buddy (Shu). This creates ice around the user as an AoE move. It also freezes enemies that get damaged by it."
+      },
+      {
+        "name": "End of Times",
+        "keybind": "V",
+        "mastery": 350,
+        "description": "The user commands both Angel Buddy and Demon Buddy (Shu and Ra) to shoot a beam of ice and a beam of fire towards their cursor, stunning enemies. The two beams will then merge, creating a large AoE ice explosion."
+      },
+      {
+        "name": "Sky Ruler",
+        "keybind": "F",
+        "mastery": 75,
+        "description": "The user mounts on one of the two Buddies, depending on if the user used Demon Buddy (Ra) or Angel Buddy (Shu) last, the Angel Buddy (Shu) is set by default."
+      }
+    ]
+  },
+  "mammoth": {
+    "rarity": "mythical",
+    "type": "beast",
+    "money": 2700000,
+    "robux": 2350,
+    "value": "fluctuating",
+    "demand": "6",
+    "description": "Have you ever imagined transforming into a creature of prehistoric might within the realms of Blox Fruits? The Mammoth Fruit, introduced in Update 20, offers a journey back in time, granting powers that resonate with the colossal beasts of the Ice Age. But how does this mythical transformation enhance your adventure?",
+    "passive": [
+      {
+        "name": "Prehistoric Jump",
+        "description": "When pressing the \"Space\" key while transformed, the user will create a small AOE shock wave that does no damage, however the landing creates a crater that deals damage."
+      },
+      {
+        "name": "Mammoth Armor",
+        "description": "While transformed, the user gains a 60.5% damage reduction."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Ancient Cutter",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user turns into a mammoth covered in a dark aura, then stomps on the ground, sending three large slashes similar to Dragon's transformed X move through the ground and air. This move can be used in the air."
+      },
+      {
+        "name": "True Prehistoric Punt",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "The user turns into a mammoth covered in a dark aura, and dashes forward at a high speed. If a target is hit, they are launched upwards."
+      },
+      {
+        "name": "Colossal Crusher",
+        "keybind": "C",
+        "mastery": 100,
+        "description": "The user dashes forward similar to the X move, but instead if a target is hit, they are slammed down."
+      },
+      {
+        "name": "Transformation",
+        "keybind": "V",
+        "mastery": 300,
+        "description": "Transforms into an armored mammoth. (Armor provides approx. 60.5% damage reduction) The user will have different jump and dash animations, along with the ability to deal damage by falling to the ground when airborne."
+      },
+      {
+        "name": "Stampede",
+        "keybind": "F",
+        "mastery": 200,
+        "description": "The user jumps forward, similar to Buddha C. The longer this move is held, the longer the user jumps, which is similar to Rubber's F move. Upon landing, the user creates a massive crater whilst damaging any enemy within said crater."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Tap",
+        "mastery": 0,
+        "description": "The user performs a 4 hit combo, utilizing 2 trunk slaps, a stomp with the front legs, and ending it with a furious roar. The Roar at the end is similar to Leopard's M1s."
+      },
+      {
+        "name": "Ancient Cutter",
+        "keybind": "Z",
+        "mastery": 0,
+        "description": "The user sends 3 large slashes similar to the untransformed version, followed by 3 more large slashes that are launched at a wider angle."
+      },
+      {
+        "name": "True Prehistoric Punt",
+        "keybind": "X",
+        "mastery": 0,
+        "description": "The user dashes forward. If hit, the target will be knocked upwards, sending them high into the air, dealing high damage. This attack is way higher than Twin Hooks's X move."
+      },
+      {
+        "name": "Colossal Crusher",
+        "keybind": "C",
+        "mastery": 0,
+        "description": "The user dashes forward. If hit, the target will be slammed into the ground with great force."
+      },
+      {
+        "name": "Transformation",
+        "keybind": "V",
+        "mastery": 0,
+        "description": "The user reverts back to their human form."
+      },
+      {
+        "name": "Stampede",
+        "keybind": "F",
+        "mastery": 0,
+        "description": "The user stampedes forward, dealing continuous damage for as long as the key is held. Provides immunity to stun. Disables instinct dodge."
+      }
+    ]
+  },
+  "dragon": {
+    "rarity": "mythical",
+    "type": "beast",
+    "money": 3500000,
+    "robux": 2600,
+    "value": "hyped",
+    "demand": "9.5",
+    "description": "In the vast and competitive realm of Blox Fruits, the Dragon Fruit emerges as a colossal force, boasting the largest transformation in the game and a suite of abilities that enhance both attack and defense.",
+    "passive": [
+      {
+        "name": "Fury Meter",
+        "description": "The user starts off with 50% of the \"Fury Meter\" bar when spawned. The user's Fury Meter needs to be full to be able to transform into a dragon. Fury is regained over time while not transformed and drains while transformed. Using moves while transformed decreases the user's Fury Meter."
+      },
+      {
+        "name": "Transformation",
+        "description": "In Dragon form, the user gains a 62.5% damage resistance to all attacks."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Heatwave Beam",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "The user fires a beam of energy from their mouth, knocking enemies back."
+      },
+      {
+        "name": "Dragonic Claw",
+        "keybind": "X",
+        "mastery": 150,
+        "description": "The user harnesses a ball of fire in their right hand, then dashes toward where the cursor is. Upon reaching an enemy, the user grabs them and drags them along, leaving a trail of fire behind. If used in the air, the user drags the enemy caught to the ground. The drag ends early upon colliding with a wall."
+      },
+      {
+        "name": "Fire Shower",
+        "keybind": "C",
+        "mastery": 250,
+        "description": "The user jumps up into the air and begins shooting fireballs towards the ground. Upon impact, the projectiles explode, damaging enemies caught in the vicinity, knocking them back, and stunning them for a brief moment. Holding this move allows the user to shoot fireballs for around 2.5 seconds."
+      },
+      {
+        "name": "Transformation",
+        "keybind": "V",
+        "mastery": 350,
+        "description": "If the user has a maxed Fury meter, the user transforms into a dragon. Consumes 15% of Fury upon transformation."
+      },
+      {
+        "name": "Dragon Flight",
+        "keybind": "F",
+        "mastery": 75,
+        "description": "The user grows dragon wings and is now able to fly. (The user will fly faster when aiming upward)"
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Heatwave Beam",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "The user shoots a huge beam of fire from their mouth. Consumes approximately 7.5% of Fury."
+      },
+      {
+        "name": "Dragonic Claw",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 150,
+        "description": "The user opens their mouth wide open then proceeds to shoot three crescent shaped projectiles in three directions from its claw, damaging and burning enemies it hits for a short time. Consumes 10% of Fury."
+      },
+      {
+        "name": "Fire Shower",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 250,
+        "description": "A ball of raging flames forms within the user's mouth, and is then unleashed. Upon hitting anything, this ball explodes and burns anything it comes unto contact with. Consumes 15% of Fury."
+      },
+      {
+        "name": "Transformation",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 350,
+        "description": "The user reverts back to their human form."
+      }
+    ]
+  },
+  "leopard": {
+    "rarity": "mythical",
+    "type": "beast",
+    "money": 5000000,
+    "robux": 3000,
+    "value": "stable",
+    "demand": "10",
+    "description": "Discovering the potential of the Leopard in Blox Fruits can be a fascinating experience. This exotic Beast, released in Update 17 Part 3, has captured the imagination of players with its impressive design and powerful abilities.",
+    "passive": [
+      {
+        "name": "Half-Leopard, Half-Human",
+        "description": "The wielder of this fruit is able to transform into a Leopard-Human hybrid. This form will disable their sword, gun and fighting style moveset. However, it allows them to gain unbelievable strength and allows them to have the ability to melee attack. The M1 consists of two immense punches, one swift kick, and one furious roar which breaks Instinct and deals AoE damage."
+      },
+      {
+        "name": "Jump Boost",
+        "description": "While transformed, the user gains a jump boost, making them jumps slightly higher."
+      },
+      {
+        "name": "Lava Immunity",
+        "description": "When transformed, the user is \"immune\" to all environment lava puddles, such as those found in Raids or on the island Hot and Cold. however, you are not immune at all to the lava, when you touch the lava with your body center it will cause damage. Note that this does not provide resistance to the moves of the Magma fruit."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Finger Revolver",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "Shoots out a blazing projectile out of the user's hand (supposedly their finger) where their cursor is aiming, which explodes into a fireball. If the key is held, it will send a barrage of normal projectiles first, then after a short moment the blazing projectile will be fired. If damage is taken while the move is held, the final projectile will be fired early."
+      },
+      {
+        "name": "Spiraling Kick",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "Sends out a thin saw-like blade that will hit your opponent several times, then shoots them upward in an updraft. The updraft remains there after the move is finished, and walking in the path of it with Instinct disabled or holding a move will cause you to be blasted up. This move is great for combos."
+      },
+      {
+        "name": "Afterimage Assault",
+        "keybind": "C",
+        "mastery": 100,
+        "description": "The user teleports a couple times in their cursors direction then lets out a roar that deals damage and knock back. If you are on the ground then you smash the ground instead, breaks Instinct in the process."
+      },
+      {
+        "name": "Transformation",
+        "keybind": "V",
+        "mastery": 300,
+        "description": "You transform into a Leopard-Human hybrid. While you won't be able to use your sword, gun and fighting style in this form, you'll gain a large speed and fruit moveset cooldown buff with a 10% damage reduction. This form has an melee attack that stuns and has an AoE roar attack every 4th click/tap. Using the C skill can increase your speed even further, and all moves deal slightly increased damage. After transforming, you let out a roar which does some damage and breaks Instinct."
+      },
+      {
+        "name": "Body Flicker",
+        "keybind": "F",
+        "mastery": 200,
+        "description": "You move forward a short distance very fast (like a mini flash step.) and if there is a target in front of you knock them back with a swift kick and deal a good amount of damage, breaks Instinct."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Tap",
+        "mastery": 0,
+        "description": "User swings and hits with the claws. It has a combo for prolonged strikes."
+      },
+      {
+        "name": "",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "Shoots out a blazing projectile out of the user's hand (supposedly their finger) where their cursor is aiming. After a while this projectile explodes. If the key is held down, it will send a barrage of normal projectiles where your cursor is aiming, then after a short moment the blazing projectile will be fired. If you take damage while holding this move, you will automatically shoot the final projectile, similar to other held moves."
+      },
+      {
+        "name": "",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "Using your flexible legs, you are able to produce a slice of wind with your leg. If this ability hits, it will send out a thin, saw-like blade hitting your opponent multiple times, then shoots them upward in an updraft. The updraft remains there after the move is finished, and walking in the path of it with Instinct disabled or holding a move will result in you being caught in the updraft. This move is great for combos."
+      },
+      {
+        "name": "",
+        "keybind": "C",
+        "mastery": 100,
+        "description": "The user teleports towards the location of the user's cursor, then lets out a furious roar. If this move is used on the ground, the user also smashes the ground with a great slam when this move is used. This move breaks Instinct then adds a fire effect (cosmetic) to the user also increases speed by 40% for 3-4 seconds."
+      },
+      {
+        "name": "",
+        "keybind": "V",
+        "mastery": 300,
+        "description": "The user transforms back into their human form instantly, sending out a shower of particles. This reverts the user into their normal state, removing their ability to use Leopard's transformed moves, but in turn restores their ability to use Fighting Styles, Swords and Guns."
+      },
+      {
+        "name": "",
+        "keybind": "F",
+        "mastery": 200,
+        "description": "The user teleports forward a short distance in the blink of an eye (Sort of like a mini flash-step.) Anyone hit by this move will be hit with a swift kick which deals good damage and high knockback. This move is faster than it's untransformed counterpart. This move breaks Instinct."
+      }
+    ]
+  },
+  "kitsune": {
+    "rarity": "mythical",
+    "type": "beast",
+    "money": 4500000,
+    "robux": "n/a",
+    "value": "Hyped",
+    "demand": "10",
+    "description": "In Blox Fruits’ dynamic and ever-evolving universe, the Kitsune Fruit emerges as a game-changer with its unique mythical beast powers. Promising unprecedented abilities and strategic gameplay, the Kitsune Fruit has quickly garnered attention among the players.",
+    "skills": []
+  }
+}
