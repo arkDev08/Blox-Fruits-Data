@@ -1,5 +1,5 @@
 {
-  "rarities": [ "common", "uncommon", "rare", "legendary", "mythical" ],
+  "rarities": ["common", "uncommon", "rare", "legendary", "mythical"],
   "rocket": {
     "rarity": "common",
     "type": "natural",
@@ -2257,6 +2257,93 @@
     "value": "Hyped",
     "demand": "10",
     "description": "In Blox Fruits’ dynamic and ever-evolving universe, the Kitsune Fruit emerges as a game-changer with its unique mythical beast powers. Promising unprecedented abilities and strategic gameplay, the Kitsune Fruit has quickly garnered attention among the players.",
-    "skills": []
+    "passive": [
+      {
+        "name": "Air Jump",
+        "description": "Aerial Acrobatics endows the player with the ability to perform mid-air jumps, significantly increasing vertical maneuverability and enabling aerial combat tactics. This skill not only enhances the ability to dodge ground-based attacks but also opens the door to unexpected downward strikes and more dynamic environmental exploration. The power to leap through the air is vital for maintaining the upper hand in varied terrains and during intense confrontations."
+      },
+      {
+        "name": "Dash and Mounted Allies",
+        "description": "Kitsune Dash is a passive ability that bestows the user with superhuman movement speed, transforming into a mystical fox. It’s more than just a mobility enhancer; it provides the user with exceptional agility to dodge attacks or strategically reposition in combat. Crucially, in the transformed state, allied players can mount the user, and the user can still perform all abilities with a player riding them. This symbiotic capability is a game-changer in fast-paced encounters, potentially tipping the scales in PvP battles by allowing coordinated strikes and evasive maneuvers with an ally in tow."
+      },
+      {
+        "name": "Water Stride",
+        "description": "Water Stride is a transformative passive ability that allows Kitsune Fruit users to walk on water without incurring damage, but only when transformed. This skill is not just visually impressive; it offers unprecedented escape or attack strategies, allowing players to navigate the battlefield in unexpected ways and gain a tactical advantage over those confined to conventional terrain limitations."
+      }
+    ],
+    "skills": [
+      {
+        "name": "M1 Claws",
+        "mastery": 0,
+        "description": "The M1 Claws ability is a core component of the Kitsune Fruit, accessible in both transformed and untransformed states. By clicking the mouse button, the player executes a swift and effective claw attack, essential for close-range combat. This basic attack is remarkably versatile, allowing players to deliver quick and precise strikes, ideal for initiating combat or as a follow-up in a combo chain. Its reliability and ease of use make it a go-to option for consistent damage output, regardless of the player’s transformation state, ensuring that Kitsune users are always equipped for engagement."
+      },
+      {
+        "name": "Accursed Enchantment",
+        "keybind": "Z",
+        "mastery": 1,
+        "description": "Cast a spell that invokes the mystical power of the Kitsune, creating a burst of spiritual energy capable of affecting multiple enemies at once. This enchantment is ideal for engaging nearby foes, creating an explosion that can reach and damage several targets simultaneously."
+      },
+      {
+        "name": "Tails of Burning Agony",
+        "keybind": "X",
+        "mastery": 50,
+        "description": "Unleashes the fiery torment of the Kitsune’s tails, where each attack manifests as a zigzagging trail of fire that can drag enemies along. This ability can hit and drag up to three opponents, making it a formidable option for controlling the flow of combat."
+      },
+      {
+        "name": "Fox Fire Disruption",
+        "keybind": "C",
+        "mastery": 100,
+        "description": "This ability summons will-o’-the-wisps that seek out and disorient adversaries. It’s an offensive maneuver that can confuse enemies and cause continuous damage, disrupting their attacks and making them vulnerable to additional combos."
+      },
+      {
+        "name": "Transformation",
+        "keybind": "V",
+        "mastery": 300,
+        "description": "The central ability of the Kitsune Fruit, this power allows the user to transform into a mystical fox. This transformation augments the user’s capabilities and alters the dynamics of combat by introducing new offensive and defensive techniques. Moreover, once transformed, the user can act as a mount, offering a unique opportunity for an allied player to ride on them, enhancing cooperative play and strategic movement on the battlefield."
+      },
+      {
+        "name": "Swift Assault",
+        "keybind": "F",
+        "mastery": 200,
+        "description": "A rapid offensive that allows the player to launch a swift and direct attack. This ability is essential for closing distances or escaping from complicated situations, granting agility and versatility on the battlefield."
+      }
+    ],
+    "skillsV2": [
+      {
+        "name": "Accursed Enchantment",
+        "keybind": "Z",
+        "price": 500,
+        "mastery": 1,
+        "description": "After transformation, this ability is enhanced, allowing the user to cast even more destructive curses. In addition to its improved effect, when activated, it can split its attack into three separate flames, increasing the area of effect and damage potential."
+      },
+      {
+        "name": "Tails of Burning Agony",
+        "keybind": "X",
+        "price": 3000,
+        "mastery": 50,
+        "description": "In the transformed state, the fiery tails become more fierce, with the ability to inflict even greater damage and control opponents more effectively. This transformed ability is perfect for players looking to dominate on the battlefield with extensive area attacks."
+      },
+      {
+        "name": "Fox Fire Disruption",
+        "keybind": "C",
+        "price": 4000,
+        "mastery": 100,
+        "description": "Once transformed, Fox Fire Disruption intensifies, emitting will-o’-the-wisps that are more erratic and difficult for enemies to evade. This ability is key to destabilizing groups of adversaries and creating opportunities for combined attacks."
+      },
+      {
+        "name": "Transformation",
+        "keybind": "V",
+        "price": 5000,
+        "mastery": 300,
+        "description": "In addition to the transformation ability, players gain a new dash ability, providing a unique animation and increased movement speed. This not only enhances mobility but also allows allies to use the player as a mount to move quickly across the battlefield."
+      },
+      {
+        "name": "Swift Assault",
+        "keybind": "F",
+        "price": 2000,
+        "mastery": 200,
+        "description": "With transformation, Swift Assault becomes an even more valuable tool, offering faster and more powerful attacks. This ability is crucial for close-quarters combat, allowing the player to strike and retreat with impressive agility."
+      }
+    ]
   }
 }
