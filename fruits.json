@@ -1,4 +1,5 @@
 {
+  "rarities": [ "common", "uncommon", "rare", "legendary", "mythical" ],
   "rocket": {
     "rarity": "common",
     "type": "natural",
