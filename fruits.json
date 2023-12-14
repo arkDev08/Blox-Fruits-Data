@@ -2218,31 +2218,31 @@
         "description": "User swings and hits with the claws. It has a combo for prolonged strikes."
       },
       {
-        "name": "",
+        "name": "Finger Revolver",
         "keybind": "X",
         "mastery": 50,
         "description": "Shoots out a blazing projectile out of the user's hand (supposedly their finger) where their cursor is aiming. After a while this projectile explodes. If the key is held down, it will send a barrage of normal projectiles where your cursor is aiming, then after a short moment the blazing projectile will be fired. If you take damage while holding this move, you will automatically shoot the final projectile, similar to other held moves."
       },
       {
-        "name": "",
+        "name": "Spiraling Kick",
         "keybind": "X",
         "mastery": 50,
         "description": "Using your flexible legs, you are able to produce a slice of wind with your leg. If this ability hits, it will send out a thin, saw-like blade hitting your opponent multiple times, then shoots them upward in an updraft. The updraft remains there after the move is finished, and walking in the path of it with Instinct disabled or holding a move will result in you being caught in the updraft. This move is great for combos."
       },
       {
-        "name": "",
+        "name": "Afterimage Assault",
         "keybind": "C",
         "mastery": 100,
         "description": "The user teleports towards the location of the user's cursor, then lets out a furious roar. If this move is used on the ground, the user also smashes the ground with a great slam when this move is used. This move breaks Instinct then adds a fire effect (cosmetic) to the user also increases speed by 40% for 3-4 seconds."
       },
       {
-        "name": "",
+        "name": "Transformation",
         "keybind": "V",
         "mastery": 300,
         "description": "The user transforms back into their human form instantly, sending out a shower of particles. This reverts the user into their normal state, removing their ability to use Leopard's transformed moves, but in turn restores their ability to use Fighting Styles, Swords and Guns."
       },
       {
-        "name": "",
+        "name": "Body Flicker",
         "keybind": "F",
         "mastery": 200,
         "description": "The user teleports forward a short distance in the blink of an eye (Sort of like a mini flash-step.) Anyone hit by this move will be hit with a swift kick which deals good damage and high knockback. This move is faster than it's untransformed counterpart. This move breaks Instinct."
