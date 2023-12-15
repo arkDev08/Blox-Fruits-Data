@@ -1650,6 +1650,7 @@
     "value": "underpaid",
     "demand": "2",
     "description": "In the challenging universe of Blox Fruits, the Gravity Fruit holds a prominent place. Being one of the mythical and more affordable fruits in the game (according to Update 19), it presents itself as an intriguing option for players looking to maximize their in-game experience. Despite its redesign in Update 17.3, many players still question its viability in PvP or PvE battles.",
+    "image": "",
     "skills": [
       {
         "name": "Gravity Push",
@@ -1692,6 +1693,7 @@
     "value": "stable",
     "demand": "9",
     "description": "In the Blox Fruits universe, elemental fruits play a crucial role in the gaming experience. Among these, the Dough Fruit, or Masa, is a mythical element that presents a series of unique attributes and abilities. It was introduced in Update 9 and reached its full potential in Update 17.3.",
+    "image": "",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -1782,6 +1784,7 @@
     "value": "stable",
     "demand": "7",
     "description": "Discover the mystery and adventure that awaits in the Blox Fruits universe and delve into the enigmatic world of the Shadow fruit. This mythical fruit, which costs $2,900,000 or 2,425 Robux, has a ghostly presence in the game, appearing only with a 1.3% probability in each stock, and a 1.1% chance of manifesting every hour.",
+    "image": "",
     "passive": [
       {
         "name": "Umbra Meter",
@@ -1829,6 +1832,7 @@
     "value": "stable",
     "demand": "8",
     "description": "The Venom Fruit, with its unique ability to inflict considerable damage on opponents, has earned a prominent place in the current meta of the game.  The Venom Fruit is a strategic choice that deserves our full attention.",
+    "image": "",
     "passive": [
       {
         "name": "Lava Immunity",
@@ -1892,6 +1896,7 @@
     "value": "stable",
     "demand": "7",
     "description": "In the cutthroat world of Blox Fruits, where power and agility dictate survival, the Control Fruit emerges as a beacon of dominance, intriguing players with its sophisticated gameplay and tactical prowess.",
+    "image": "",
     "passive": [
       {
         "name": "Area-Bound",
@@ -1939,6 +1944,7 @@
     "value": "stable",
     "demand": "8",
     "description": "Immersing yourself in the vibrant world of Blox Fruits is always an exhilarating experience. Among the most captivating elements is the Soul Fruit, a high-value option that allows players to harness the power of ice and fire, adding a strategic dimension to the game.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100788989702215/SpiritFruit.png?ex=658e621e&is=657bed1e&hm=c3899f810c257dfb442e446a&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Spirit Bar",
@@ -1995,6 +2001,7 @@
     "value": "fluctuating",
     "demand": "6",
     "description": "Have you ever imagined transforming into a creature of prehistoric might within the realms of Blox Fruits? The Mammoth Fruit, introduced in Update 20, offers a journey back in time, granting powers that resonate with the colossal beasts of the Ice Age. But how does this mythical transformation enhance your adventure?",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100500572586108/MammothFruit.png?ex=658e61d9&is=657becd9&hm=367f7a6fe28125294e07acb6&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Prehistoric Jump",
@@ -2083,6 +2090,7 @@
     "value": "hyped",
     "demand": "9.5",
     "description": "In the vast and competitive realm of Blox Fruits, the Dragon Fruit emerges as a colossal force, boasting the largest transformation in the game and a suite of abilities that enhance both attack and defense.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100449565646878/DragonFruit.png?ex=658e61cd&is=657beccd&hm=8dcd31abbd5071e13d46dc41&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Fury Meter",
@@ -2164,6 +2172,7 @@
     "value": "stable",
     "demand": "10",
     "description": "Discovering the potential of the Leopard in Blox Fruits can be a fascinating experience. This exotic Beast, released in Update 17 Part 3, has captured the imagination of players with its impressive design and powerful abilities.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100502153830500/LeopardFruit.png?ex=658e61d9&is=657becd9&hm=ac86a25b12c8cd744df23cc2&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Half-Leopard, Half-Human",
@@ -2256,6 +2265,7 @@
     "value": "Hyped",
     "demand": "10",
     "description": "In Blox Fruits’ dynamic and ever-evolving universe, the Kitsune Fruit emerges as a game-changer with its unique mythical beast powers. Promising unprecedented abilities and strategic gameplay, the Kitsune Fruit has quickly garnered attention among the players.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100449876029470/KitsuneFruit.png?ex=658e61cd&is=657beccd&hm=237abbbf62cc21eff2ea4a6f&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Air Jump",
