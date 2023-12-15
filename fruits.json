@@ -8,6 +8,7 @@
     "value": "stable",
     "demand": "1",
     "description": "Have you ever pondered the thrill of entering combat propelled by the raw power of rockets? In the realm of Blox Fruits, the Rocket Fruit provides precisely that – an affordable, explosive encounter. Let's soar into the details and uncover why this fruit could be your gateway to an exciting adventure. Priced at the same level as the former Kilo fruit, the Rocket Fruit stands as the most economical option in the game. Yet, its attacks surpass in potency, making it an optimal choice for grinding and, potentially, player versus player scenarios.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100692281630751/RocketFruit.png?ex=658e6207&is=657bed07&hm=0dd7a90231e481b695306194&=&format=webp&quality=lossless",
     "skills": [
       {
         "name": "Missile Fist",
@@ -43,6 +44,7 @@
     "value": "stable",
     "demand": "1",
     "description": "In the diverse realm of Blox Fruits, the Spike Fruit emerges as a distinctive option, seamlessly blending peculiarity and power. As a Natural-type fruit, it introduces an unparalleled gameplay approach, endowing players who unlock it with a unique skill set.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100788410880004/SpikeFruit.png?ex=658e621e&is=657bed1e&hm=3bac3c35c2b7f105bcf32f12&=&format=webp&quality=lossless",
     "skills": [
       {
         "name": "Spike Summon",
@@ -78,6 +80,7 @@
     "value": "stable",
     "demand": "1",
     "description": "In the thrilling universe of Blox Fruits, your choice of fruit plays a crucial role in shaping your performance and overall gaming experience. The Smoke Fruit, also referred to as \"Smoke,\" has garnered players' interest for its noteworthy potential and budget-friendly nature. Despite being one of the more affordable options, its true value lies in its surprising performance and distinctive abilities – qualities that shouldn't be underestimated.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100691103035442/SmokeFruit.png?ex=658e6206&is=657bed06&hm=53bfc723b40d86a8bd1e6ae8&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -119,6 +122,7 @@
     "value": "stable",
     "demand": "1",
     "description": "When it comes to role-playing games in Roblox, Blox Fruits stands out among the crowd with its impressive range of unique powers and appealing characters. Among these peculiar and diverse abilities, one fruit, in particular, has managed to capture the attention of many players: the Bomb Blox Fruit.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100455278293163/BombFruit.png?ex=658e61ce&is=657becce&hm=f8351382c2f7124085a82b70&=&format=webp&quality=lossless",
     "skills": [
       {
         "name": "Targeted Bomb",
@@ -160,6 +164,7 @@
     "value": "stable",
     "demand": "1",
     "description": "In the vast world of Blox Fruits, players dive into an adventure full of mysteries and challenges. Among the standout elements of the game is the Blox fruit known as Spring. In this article, we will explore all the relevant aspects of this unique and powerful fruit, from its acquisition to its special abilities and peculiarities. Get ready to discover the spring power in Blox Fruits!",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100789237157988/SpringFruit.png?ex=658e621e&is=657bed1e&hm=53dc9c57b77dcd25ff62ab00&=&format=webp&quality=lossless",
     "skills": [
       {
         "name": "Knock",
@@ -201,6 +206,7 @@
     "value": "stable",
     "demand": "1",
     "description": "In the vast and vibrant universe of Blox Fruits, the Chop Fruit stands out for its uniqueness and effectiveness. This natural Blox fruit offers players an advantage in the game, facilitating defense and providing unique offensive tactics.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100456435916830/ChopFruit.png?ex=658e61ce&is=657becce&hm=dc3840467e4d8567337b6ff8&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Body Separation",
@@ -242,6 +248,7 @@
     "value": "stable",
     "demand": "1",
     "description": "In the diverse universe of Blox Fruits, the Spin fruit has earned a significant place among players. Despite being considered a common fruit of the Natural type, its usefulness in the game has made it a highly appreciated choice. In this article, we will delve into the fascinating world of Spin in Blox Fruits, its features, and how players can make the most of it.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100788662542428/SpinFruit.png?ex=658e621e&is=657bed1e&hm=d9388e44e51aef00d4fb7c59&=&format=webp&quality=lossless",
     "skills": [
       {
         "name": "Razor Wind",
@@ -277,6 +284,7 @@
     "value": "underpaid",
     "demand": "1",
     "description": "In the amazing world of Blox Fruits, discovering and mastering new fruits is an essential part of the adventure. The Diamond fruit, for example, has captured the attention of many players due to its unique characteristics.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100457408999444/DiamondFruit.png?ex=658e61cf&is=657beccf&hm=f2e1aa67e173d386abdaa3f9&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Encrustation",
@@ -319,6 +327,7 @@
     "value": "stable",
     "demand": "6",
     "description": "In the dynamic and ever-evolving universe of Blox Fruits, where power and skill are key to survival, standing out from the crowd is not always easy. Among all the variations of Blox Fruits, one has caught the attention of many players for its intricate gameplay mechanics and strategic potential: the Dark Fruit.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100456981176460/DarkFruit.png?ex=658e61cf&is=657beccf&hm=304364b415e910a8bf268697&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -398,6 +407,7 @@
     "value": "stable",
     "demand": "1",
     "description": "In the dynamic game universe of Blox Fruits, the ‘Sand’ elemental Blox fruit stands out as a coveted treasure, due to its unique potential and versatile capabilities. With a cost of 420,000 in-game currency or 850 Robux at the Blox Fruit vendor, the Sand Blox fruit presents itself as an intriguing component of the game, widely accessible through the Blox Fruits Gacha mechanic, with a 15% chance of appearing for sale.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100693766414356/SandFruit.png?ex=658e6207&is=657bed07&hm=d62f2fd4cbc3c9273676513a&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -487,6 +497,7 @@
     "value": "stable",
     "demand": "7",
     "description": "The Ice fruit in Blox Fruits is an incredibly powerful and strategic addition to any arsenal. As an elemental-type fruit, it offers players a variety of exceptional abilities that can be vital in Bounty Hunting and PvP situations. In this article, we will dive into the frozen realm of the Ice fruit, exploring its capabilities and usage strategies.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100501918957578/IceFruit.png?ex=658e61d9&is=657becd9&hm=80d9247810ba02d5fd9e4e98&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -573,6 +584,7 @@
     "value": "underpaid",
     "demand": "1",
     "description": "The vast universe of Blox Fruits, an exciting creation by Blockzone, is filled with surprises and endless excitement for players. Among the multitude of elements available in this game, a particular treasure to highlight is the Blox fruit known as Falcon. As a Beast-type fruit, Falcon is a fascinating choice for those seeking new powers and abilities.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100500815847504/FalconFruit.png?ex=658e61d9&is=657becd9&hm=5157870b2465e41910ede2ff&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Jump Boost",
@@ -621,6 +633,7 @@
     "value": "stable",
     "demand": "1",
     "description": "In the exciting world of Blox Fruits, where magic, combat, and strategy merge, there is a Blox fruit of elemental type that stands out: the Flame fruit. Introduced in Update 1, Flame has been gaining popularity among players due to its versatility and effectiveness for both beginners and experienced players.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100501130428446/FlameFruit.png?ex=658e61d9&is=657becd9&hm=166088ab927539bfde11e953&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -705,6 +718,7 @@
     "value": "overpaid",
     "demand": "7",
     "description": "With an increasing number of players venturing into the world of Blox Fruits, it is essential to understand the best tactics, fruits, and features to enhance your gaming experience. One such fruit, of the Elemental type, that has caught the attention of many players is the Magma Fruit. With its ability to drastically change the game mechanics, the Magma Fruit has become invaluable for those seeking to master Blox Fruits. It gramts the weilder the ability to walk in the water and powerful moves that can help you with sea events.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100502879444992/MagmaFruit.png?ex=658e61d9&is=657becd9&hm=ff03776cccf4375961221b8a&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -797,6 +811,7 @@
     "value": "underpaid",
     "demand": "1",
     "description": "The exciting and adventurous dynamics of the popular online game Blox Fruits attract players of all ages and skills. One of the most intriguing and tactical aspects of the game is the use of various “Blox fruits,” each with unique abilities that add an exciting twist to the gameplay. Among these fruits, the Barrier is a powerful and versatile choice that has the potential to radically change the course of your game.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100450291269663/BarrierFruit.png?ex=658e61cd&is=657beccd&hm=9df36affece5c35e6da81ef2&=&format=webp&quality=lossless",
     "skills": [
       {
         "name": "Barrier Wall",
@@ -838,6 +853,7 @@
     "value": "stable",
     "demand": "2",
     "description": "In the fascinating universe of Blox Fruits, an element that has managed to stand out in the digital landscape is the exclusive Ghost Blox Fruit. Introduced in version 16, this natural-type fruit has revolutionized the way players approach their gameplay strategy, offering them the unique ability to revive.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100501390467178/GhostFruit.png?ex=658e61d9&is=657becd9&hm=f074b7e70f49e2aedcc8e7b0&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Resurrection",
@@ -889,6 +905,7 @@
     "value": "stable",
     "demand": "5",
     "description": "The world of Blox Fruits offers a multitude of exciting fruits that transform the body and provide exceptional abilities. One notable fruit from this catalog is Rubber Fruit, a natural-type Blox fruit. This article will examine the features, abilities, and tricks of this fruit in detail, providing a comprehensive insight for fans and new players.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100692512321667/RubberFruit.png?ex=658e6207&is=657bed07&hm=1209617e62359f5c8a2829ad&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Rubber Man",
@@ -937,6 +954,7 @@
     "value": "stable",
     "demand": "6",
     "description": "The universe of Blox Fruits has become exponentially popular among Roblox players, providing a blend of action, adventure, and role-playing in a highly interactive platform. Within its rich ecosystem, the Light Fruit has achieved legendary status for its versatility and power. If you’re looking for a comprehensive guide on how to make the most of this fruit, you’ve come to the right place. This fruit is highly recommended to use in the First Sea.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100502376120420/LightFruit.png?ex=658e61d9&is=657becd9&hm=eae937a59584d3a5ea3390f566ceafe8b2baab4165b51b0509886fe91e88babe&",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -1025,6 +1043,7 @@
     "value": "stable",
     "demand": "6",
     "description": "Blizzard Fruit in Blox Fruits is not just an in-game item; it’s a game within itself. Known for its legendary status and unmatched elemental abilities, this fruit can take your gaming experience to astronomical levels, only if you know how to use it correctly. In this article, we will teach you everything you need to know about the Blizzard Fruit and how to master the game with its powers.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100454837887006/BlizzardFruit.png?ex=658e61ce&is=657becce&hm=1156c0d3c16d2d7fe44e4bbf7137d3c00e8c88c9c81831fb3f220a7f12ba698b&",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -1072,6 +1091,7 @@
     "value": "underpaid",
     "demand": "1",
     "description": "Blox Fruits, a popular game on the Roblox platform, has managed to capture the attention of millions of users with its intriguing variety of “fruits.” Among this range, one of the most intriguing is the “Pain ” fruit. In this article, we will explore the characteristics, value, and impact of Pain in Blox Fruits.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100691623125022/PainFruit.png?ex=658e6206&is=657bed06&hm=84ae7c8d4341dfc80d89cead898ac37dffb9882f94ce2eb30538b12b50c91d69&",
     "skills": [
       {
         "name": "Heavy Pain",
@@ -1114,6 +1134,7 @@
     "value": "stable",
     "demand": "8",
     "description": "The Rumble fruit in Blox Fruits is an intriguing and powerful resource that leaves a lasting impression on players. Categorized as an elemental type fruit, this fruit is a force to be reckoned with and can be obtained for $2,100,000 or 2,100 Robux from the Blox fruit vendor.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100692734627920/RumbleFruit.png?ex=658e6207&is=657bed07&hm=0bafa43534d977787bcd34dcb4bcdce324d46e1715c765d9ba566840a578ebeb&",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -1198,6 +1219,7 @@
     "value": "stable",
     "demand": "9",
     "description": "Blox Fruits, the popular Roblox game, features a wide range of magical fruits, each with its own powers and abilities. Among all of them, the Portal Fruit stands out for its versatility and unique functions. Formerly known as the Portal Fruit, the Portal Fruit has been completely redesigned in Update 18 to offer a new range of abilities, expanding the possibilities for gameplay and strategy.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100691824455761/PortalFruit.png?ex=658e6207&is=657bed07&hm=ce735befaa480ed0aeb0b92e7dfa3fd22217660e2ac8ae9d111f493072f6aa66&",
     "skills": [
       {
         "name": "Portal Jump",
@@ -1244,6 +1266,7 @@
     "value": "stable",
     "demand": "5",
     "description": "In the vast universe of the video game Blox Fruits, Phoenix presents itself as a fascinating and potentially powerful choice for players. As a Beast-type fruit, it has the ability to change the dynamics of the game if used correctly. Here is a comprehensive analysis of the Phoenix fruit, how to awaken it, its unique abilities, and its strategic potential in the game.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100691346313306/PhoenixFruit.png?ex=658e6206&is=657bed06&hm=e92f5ae1a8db547101b13eb32bced0e92bb9edd204d37d282eb64bdc7c647752&",
     "skills": [
       {
         "name": "Canon",
@@ -1329,6 +1352,7 @@
     "value": "stable",
     "demand": "5",
     "description": "The fascinating diversity of fruits in Blox Fruits is one of the aspects that makes this game so interesting and appealing. One of the most intriguing fruits, the Spider Fruit, formerly known as the String Fruit, has unique value and uses that set it apart in the game. In this article, we will delve deep into the Spider Fruit, uncovering its secrets, functionalities, and optimal strategies for its use.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100788171812934/SpiderFruit.png?ex=658e621e&is=657bed1e&hm=25d14405fecd082931673bbf54104066d10c706882d2397e9dfa1691a1de3a46&",
     "skills": [
       {
         "name": "Spider Wraith",
@@ -1407,6 +1431,7 @@
     "value": "stable",
     "demand": "",
     "description": "Imagine a power so profound that it turns the tide of battle with the mere ripple of a soundwave. The Sound Fruit, a legendary artifact within the Blox Fruits universe, harmonizes destruction and strategy with every note. This comprehensive guide is your score to mastering the Sound Fruit’s capabilities in Update 20.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100787806904360/SoundFruit.png?ex=658e621d&is=657bed1d&hm=be6e8bd99fabd2807ab091829e42d1b90b4752ddad0904556b7a9de989c73e64&",
     "passive": [
       {
         "name": "Tempo Aura",
@@ -1454,6 +1479,7 @@
     "value": "stable",
     "demand": "5",
     "description": "In the intriguing universe of Blox Fruits, a world of virtual adventure and excitement, the Love Fruit stands out remarkably. This legendary natural fruit has captivated players with its dynamism, and its history is as fascinating as its powers.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100502623600650/LoveFruit.png?ex=658e61d9&is=657becd9&hm=b303f1b3ad27a37235497bc70e79cc3136b1d9e9a891260239f4f963b8341703&",
     "passive": [
       {
         "name": "Lovestruck",
@@ -1502,6 +1528,7 @@
     "value": "overpaid",
     "demand": "10",
     "description": "Blox Fruits, the fascinating and action-packed Roblox game, brings players an incredible array of powerful fruits with exceptional abilities, among which one stands out: the Buddha Fruit. This fruit is unbelievably good at grinding, hence it is a must-fruit for grinders.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100455924219974/BuddhaFruit.png?ex=658e61ce&is=657becce&hm=543990fe645105098fdd91b5c0b7e3bb4c2ba29d2d3f944fe201ef4d08c9e526&",
     "passive": [
       {
         "name": "Divine Aura",
@@ -1585,6 +1612,7 @@
     "value": "stable",
     "demand": "4",
     "description": "In the thrilling universe of Blox Fruits, there is an element that stands out for its power and exclusivity: the Quake fruit, also known as Temblor. With a 6% chance of availability and a 6.4% chance of appearing in the game, it is a coveted treasure among players for its excellent performance in PvP combat, bounty hunting, and boss battles.",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100692050956420/QuakeFruit.png?ex=658e6207&is=657bed07&hm=f5fad1f4daa8491c58aa053d35fd63689ef5a92a192cf3bab30d14ed7832e2a3&",
     "skills": [
       {
         "name": "Quake Punch",
@@ -1650,7 +1678,7 @@
     "value": "underpaid",
     "demand": "2",
     "description": "In the challenging universe of Blox Fruits, the Gravity Fruit holds a prominent place. Being one of the mythical and more affordable fruits in the game (according to Update 19), it presents itself as an intriguing option for players looking to maximize their in-game experience. Despite its redesign in Update 17.3, many players still question its viability in PvP or PvE battles.",
-    "image": "",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100501629534268/GravityFruit.png?ex=658e61d9&is=657becd9&hm=1a64de2a553371512420911e4f0d17152f6987336d254679c0bc1cedf7f7b68b&=&format=webp&quality=lossless",
     "skills": [
       {
         "name": "Gravity Push",
@@ -1693,7 +1721,7 @@
     "value": "stable",
     "demand": "9",
     "description": "In the Blox Fruits universe, elemental fruits play a crucial role in the gaming experience. Among these, the Dough Fruit, or Masa, is a mythical element that presents a series of unique attributes and abilities. It was introduced in Update 9 and reached its full potential in Update 17.3.",
-    "image": "",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100787530076170/DoughFruit.png?ex=658e621d&is=657bed1d&hm=aec2981214c79fce175257218be5b20c258eb2dc3d47b62c2a684f51e9b6dbc4&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Elemental Reflex",
@@ -1784,7 +1812,7 @@
     "value": "stable",
     "demand": "7",
     "description": "Discover the mystery and adventure that awaits in the Blox Fruits universe and delve into the enigmatic world of the Shadow fruit. This mythical fruit, which costs $2,900,000 or 2,425 Robux, has a ghostly presence in the game, appearing only with a 1.3% probability in each stock, and a 1.1% chance of manifesting every hour.",
-    "image": "",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100694001299456/ShadowFruit.png?ex=658e6207&is=657bed07&hm=1174b95e61f44d1528543aad9dc136e145c8c43a8fbc1329350163700c830d89&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Umbra Meter",
@@ -1832,7 +1860,7 @@
     "value": "stable",
     "demand": "8",
     "description": "The Venom Fruit, with its unique ability to inflict considerable damage on opponents, has earned a prominent place in the current meta of the game.  The Venom Fruit is a strategic choice that deserves our full attention.",
-    "image": "",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100789484625920/VenomFruit.png?ex=658e621e&is=657bed1e&hm=09f071ad4ee6957efd308ab85b4eadbde5e5f174bdfe248b349ee500c5022e53&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Lava Immunity",
@@ -1896,7 +1924,7 @@
     "value": "stable",
     "demand": "7",
     "description": "In the cutthroat world of Blox Fruits, where power and agility dictate survival, the Control Fruit emerges as a beacon of dominance, intriguing players with its sophisticated gameplay and tactical prowess.",
-    "image": "",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100456687579256/ControlFruit.png?ex=658e61ce&is=657becce&hm=e472dea8e7f325b3d1907ab0cb02f430aaefffdb02059b3de4b030e7ebd600c7&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Area-Bound",
@@ -1944,7 +1972,7 @@
     "value": "stable",
     "demand": "8",
     "description": "Immersing yourself in the vibrant world of Blox Fruits is always an exhilarating experience. Among the most captivating elements is the Soul Fruit, a high-value option that allows players to harness the power of ice and fire, adding a strategic dimension to the game.",
-    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100788989702215/SpiritFruit.png?ex=658e621e&is=657bed1e&hm=c3899f810c257dfb442e446a&=&format=webp&quality=lossless",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100788989702215/SpiritFruit.png?ex=658e621e&is=657bed1e&hm=0bcda863c7deeccaf9819e17143ed6a9ee8da0e8c3899f810c257dfb442e446a&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Spirit Bar",
@@ -2001,7 +2029,7 @@
     "value": "fluctuating",
     "demand": "6",
     "description": "Have you ever imagined transforming into a creature of prehistoric might within the realms of Blox Fruits? The Mammoth Fruit, introduced in Update 20, offers a journey back in time, granting powers that resonate with the colossal beasts of the Ice Age. But how does this mythical transformation enhance your adventure?",
-    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100500572586108/MammothFruit.png?ex=658e61d9&is=657becd9&hm=367f7a6fe28125294e07acb6&=&format=webp&quality=lossless",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100500572586108/MammothFruit.png?ex=658e61d9&is=657becd9&hm=b71e44e1c5a0901a1777bec40ed4dd3602fedb09367f7a6fe28125294e07acb6&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Prehistoric Jump",
@@ -2090,7 +2118,7 @@
     "value": "hyped",
     "demand": "9.5",
     "description": "In the vast and competitive realm of Blox Fruits, the Dragon Fruit emerges as a colossal force, boasting the largest transformation in the game and a suite of abilities that enhance both attack and defense.",
-    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100449565646878/DragonFruit.png?ex=658e61cd&is=657beccd&hm=8dcd31abbd5071e13d46dc41&=&format=webp&quality=lossless",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100449565646878/DragonFruit.png?ex=658e61cd&is=657beccd&hm=96c08318b2bd22684420a71ddb6b9ea376b0dfc38dcd31abbd5071e13d46dc41&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Fury Meter",
@@ -2172,7 +2200,7 @@
     "value": "stable",
     "demand": "10",
     "description": "Discovering the potential of the Leopard in Blox Fruits can be a fascinating experience. This exotic Beast, released in Update 17 Part 3, has captured the imagination of players with its impressive design and powerful abilities.",
-    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100502153830500/LeopardFruit.png?ex=658e61d9&is=657becd9&hm=ac86a25b12c8cd744df23cc2&=&format=webp&quality=lossless",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100502153830500/LeopardFruit.png?ex=658e61d9&is=657becd9&hm=a6cefe85fc9aa8b1a34b8790e590df6e748be1c8ac86a25b12c8cd744df23cc2&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Half-Leopard, Half-Human",
@@ -2265,7 +2293,7 @@
     "value": "Hyped",
     "demand": "10",
     "description": "In Blox Fruits’ dynamic and ever-evolving universe, the Kitsune Fruit emerges as a game-changer with its unique mythical beast powers. Promising unprecedented abilities and strategic gameplay, the Kitsune Fruit has quickly garnered attention among the players.",
-    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100449876029470/KitsuneFruit.png?ex=658e61cd&is=657beccd&hm=237abbbf62cc21eff2ea4a6f&=&format=webp&quality=lossless",
+    "image": "https://media.discordapp.net/attachments/1183338541690933288/1185100449876029470/KitsuneFruit.png?ex=658e61cd&is=657beccd&hm=bd9e5bacd01056f574c8e336b8d98170e96d7909237abbbf62cc21eff2ea4a6f&=&format=webp&quality=lossless",
     "passive": [
       {
         "name": "Air Jump",
