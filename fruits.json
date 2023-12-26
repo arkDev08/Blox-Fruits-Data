@@ -2382,5 +2382,36 @@
         "description": "With transformation, Swift Assault becomes an even more valuable tool, offering faster and more powerful attacks. This ability is crucial for close-quarters combat, allowing the player to strike and retreat with impressive agility."
       }
     ]
+  },
+  "t-rex": {
+    "rarity": "mythical",
+    "type": "beast",
+    "money": 2700000,
+    "robux": 2350,
+    "value": "10",
+    "demand": "Hyped",
+    "description": "The T-Rex Fruit, a new mythical addition to the Blox Fruits universe, offers players a transformative and powerful combat experience. Fully finished and dropping for Christmas, it’s set to become a favorite among the community.",
+    "passive": [
+      { name: "Fury Meter", description: "The user starts off with 0% of the \"Fury Meter\" bar when spawned. The user's Fury Meter needs to be full to be able to transform into a T-rex. Fury is regained over time while not transformed and drains while transformed. Using moves while transformed decreases the user's Fury Meter. When taking damage while transformed, the Fury Meter will increase. The fury meter takes 1m 30s to fill to full from 0% to 100%." },
+      { name: "Prey Mark", description: "After transformation, your attacks will apply a prey mark to the hit opponents, causing them to suffer continuous bleeding. The farther they are from you, the higher the tick damage." },
+      { name: "Air Jump", description: "Defy the laws of gravity and the expectations of size with the Aerial Leap. This passive ability allows you to soar through the skies, granting a majestic and agile presence reminiscent of a T-Rex’s less-acknowledged grace. With each leap, you embody the surprise and awe that such a massive creature should not, yet thrillingly does, possess the power to navigate the vertical battlefield with such ease." },
+      { name: "Dash", description: "Tap into the latent energy reserves of a prehistoric behemoth with Burst Dash. This passive skill mirrors the shocking agility of a T-Rex, allowing for rapid repositioning that belies its colossal form. With each sudden surge, you blur the line between the cumbersome giant and the swift predator, leaving foes unprepared for the velocity at which a legend can strike." }
+    ],
+    "skills": [
+      { name: "M1 Claws", mastery: 0, description: "Unleash a relentless flurry of clawed strikes that evoke the T-Rex’s savage nature. Each swipe is a dance of death, a series of swift, merciless gestures that leave enemies rent and torn. This primal barrage is the bread and butter of your arsenal, a straightforward yet brutal reminder of why the T-Rex is the eternal emblem of prehistoric peril." },
+      { name: "Tail Swipe", keybind: "Z", mastery: 1, description: "Harness the apex predator’s speed with this dynamic ability, which allows you to charge at your foes with a ferocious dash. This culminates in a predatory bite, reminiscent of a T-Rex’s lethal grip, that clamps down on adversaries with relentless force. The ensnaring finish emulates the inevitable doom that befalls prey caught in the jaws of this prehistoric titan." },
+      { name: "Predatory Screech", keybind: "X", mastery: 50, description: "Conjure the catastrophic forces of nature with a ground-shaking stomp, creating a swirling vortex that drags enemies helplessly toward its center. As the tension builds, the trap explodes, releasing the pent-up energy in a spectacular blast that ravages all caught in the ancient snare, a testament to the T-Rex’s earth-shattering presence." },
+      { name: "Hunter's Rage", keybind: "C", mastery: 100, description: "With a roar that trembles the very air, summon the T-Rex’s spectral claws to carve out devastating gashes in the earth itself. This long-range assault reaches out like the fearsome talons of the T-Rex, slashing through everything in its path, dealing catastrophic damage that captures the sheer terror of facing the king of dinosaurs." },
+      { name: "Reptilian Scales", keybind: "V", mastery: 300, description: "As the Fury Meter reaches its zenith, tap into the prehistoric essence that courses through you, triggering a transformation as powerful as the Cretaceous asteroid. Your form expands, morphing into the colossal stature of the T-Rex, where each newfound muscle and sinew brims with untapped destructive potential and raw, primal energy." },
+      { name: "Gigantic Leap", keybind: "F", mastery: 200, description: "Embody the cataclysmic force that once heralded the end of an era. With this ability, you become the meteor, descending from above with unstoppable momentum. The ground quakes upon your thunderous landing, cratering under the immense power, and sending shockwaves that echo the T-Rex’s dominion over land and prey alike." }
+    ],
+    "skillsV2": [
+      { name: "M1 Claws", mastery: 0, description: "Embark on a relentless assault with a maw and claws that have become legends in their own right. This extensive combination of bites and slashes is the essence of the T-Rex’s assault, ending in an explosion that encapsulates the raw, unbridled fury of the most fearsome predator to have ever walked the earth." },
+      { name: "Tail Swipe", keybind: "Z", mastery: 1, description: "In your transformed state, wield claws of mythic proportions to execute a swipe that spans the horizon, cleaving the air itself. Follow through with a sequence of five devastating slashes, each one a tribute to the T-Rex’s unrivaled power, leaving behind a tableau of destruction that tells a tale as old as the Cretaceous itself." },
+      { name: "Predatory Screech", keybind: "X", mastery: 50, description: "Summon the primal forces that once ruled the ancient world to create a vortex that ensnares anything caught within its grasp. This powerful trap culminates in an earth-shattering explosion, a cataclysmic event that harkens back to the era when the T-Rex was the unchallenged sovereign of land and sky." },
+      { name: "Hunter's Rage", keybind: "C", mastery: 100, description: "With the swiftness of the hunt ingrained in your very being, dash toward your quarry with a predatory precision that defies the bulk of your massive form. Grasp and hurl them to the ground with the authority of the era’s apex predator, a display of dominance that reinforces the hierarchy of the ancient food chain." },
+      { name: "Reptilian Scales", keybind: "V", mastery: 300, description: "Master the ebb and flow of prehistoric power with the ability to shed your T-Rex form at will. This skill demonstrates an advanced mastery of your transformative powers, allowing you to adapt fluidly to the changing tides of battle and preserve the element of surprise." },
+      { name: "Gigantic Leap", keybind: "F", mastery: 200, description: "Channel the fury of a T-Rex and the impact of the asteroid that marked its end. Plunge from the skies in a fearsome descent, crashing into your enemy and setting off a cataclysmic explosion. The resulting blasts scatter across the battlefield like aftershocks, a testament to the T-Rex’s earth-shaking impact." }
+    ]
   }
 }
