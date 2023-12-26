@@ -2393,13 +2393,13 @@
          }
       ]
    },
-   "t-rex":{
+   "trex":{
       "rarity":"mythical",
       "type":"beast",
       "money":2700000,
       "robux":2350,
-      "value":"10",
-      "demand":"Hyped",
+      "value":"Hyped",
+      "demand":"10",
       "description":"The T-Rex Fruit, a new mythical addition to the Blox Fruits universe, offers players a transformative and powerful combat experience. Fully finished and dropping for Christmas, it’s set to become a favorite among the community.",
       "passive":[
          {
